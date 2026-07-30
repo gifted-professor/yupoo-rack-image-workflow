@@ -1,0 +1,29 @@
+{
+  "name": "yupoo-rack-image-workflow",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "setup": "node scripts/setup-python.mjs",
+    "python": "node scripts/run-python.mjs",
+    "preflight": "node scripts/generate-racks.mjs --batch config/batch.example.json --dry-run",
+    "generate": "node scripts/generate-racks.mjs",
+    "repair": "node scripts/repair-racks.mjs",
+    "dashboard": "node scripts/review-dashboard.mjs",
+    "price-previews": "node scripts/build-price-previews.mjs",
+    "xhs-covers": "node scripts/build-xhs-covers.mjs",
+    "xianyu-copy": "node scripts/build-xianyu-copy.mjs",
+    "xhs-copy": "node scripts/build-xhs-copy.mjs",
+    "push-status": "node scripts/push-catalog-status.mjs",
+    "feishu:sync": "node scripts/push-feishu-yupoo.mjs",
+    "upload:szwego": "node scripts/upload-szwego.mjs",
+    "test:py": "node scripts/test-python.mjs",
+    "test:automation": "node --test tests/*.test.mjs",
+    "test": "npm run test:py && npm run test:automation && npm run preflight"
+  },
+  "dependencies": {
+    "axios": "^1.18.1",
+    "form-data": "^4.0.6",
+    "playwright-core": "^1.62.0"
+  }
+}

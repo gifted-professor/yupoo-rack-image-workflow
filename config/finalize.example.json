@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "approvals": [
+    {
+      "sku": "AB1234-001",
+      "view": "front",
+      "status": "APPROVED_FOR_PRICE",
+      "input": "runs/REPLACE_RUN_ID/review/AB1234-001-front.png",
+      "output": "outputs/AB1234-001-front-sale.jpg",
+      "cost": 135,
+      "category": "外套",
+      "category_en": "Outerwear"
+    },
+    {
+      "sku": "AB1234-001",
+      "view": "back",
+      "status": "REPAIR_REQUIRED",
+      "input": "runs/REPLACE_RUN_ID/review/AB1234-001-back.png",
+      "output": "outputs/AB1234-001-back-sale.jpg",
+      "cost": 135,
+      "category": "外套",
+      "category_en": "Outerwear"
+    }
+  ]
+}
+

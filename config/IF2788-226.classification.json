@@ -1,0 +1,96 @@
+{
+  "sku": "IF2788-226",
+  "brand": "nike",
+  "product_type": "shirt",
+  "review_state": "draft",
+  "reference_image_status": "usable_model_worn",
+  "color_authority": 7,
+  "facts": {
+    "brand_display": "NIKE耐克",
+    "official_url": null,
+    "official_title": null,
+    "season": [],
+    "gender": [
+      "男子"
+    ],
+    "product_line": [
+      "Nike Athletics"
+    ],
+    "category": "短袖T恤",
+    "materials": [
+      "100% polyester body"
+    ],
+    "features": [
+      "crew neck",
+      "short sleeves",
+      "front chest graphic",
+      "plain back",
+      "ribbed collar",
+      "straight hem"
+    ],
+    "use_cases": [
+      "casual wear",
+      "athletic lifestyle"
+    ],
+    "styles": [
+      "men's sportswear T-shirt",
+      "graphic tee"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "灰粉紫色",
+      "深棕紫色印花"
+    ],
+    "tags": []
+  },
+  "roles": {
+    "front_full": [
+      7
+    ],
+    "back_full": [
+      6
+    ],
+    "logo_detail": [
+      5,
+      2
+    ],
+    "front_structure_detail": [
+      7
+    ],
+    "back_structure_detail": [
+      6
+    ],
+    "shared_structure_detail": [
+      3,
+      4
+    ],
+    "collar_detail": [
+      6,
+      7
+    ],
+    "hem_pocket_detail": [
+      7
+    ],
+    "sleeve_detail": [
+      4,
+      6,
+      7
+    ],
+    "fabric_detail": [
+      1,
+      3,
+      4
+    ],
+    "tag_detail": [
+      1,
+      2
+    ],
+    "invalid_or_uncertain": []
+  }
+}

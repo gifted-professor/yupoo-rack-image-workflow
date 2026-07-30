@@ -1,0 +1,37 @@
+{
+  "sku": "IX1577-274",
+  "brand": "jordan",
+  "product_type": "shirt",
+  "review_state": "manual_verified",
+  "reference_image_status": "usable_model_worn",
+  "facts": {
+    "brand_display": "Jordan耐克",
+    "official_url": "https://www.nike.com.hk/product/IX1577-274/detail.htm",
+    "official_title": "Jordan Brooklyn 男子T恤",
+    "season": [],
+    "gender": ["男子"],
+    "product_line": ["AJ1经典系列"],
+    "category": "短袖T恤",
+    "materials": ["中磅纯棉"],
+    "features": [],
+    "use_cases": ["日常休闲"],
+    "styles": [],
+    "sizes": [],
+    "colors": ["马毛棕"],
+    "tags": ["当月新品"]
+  },
+  "roles": {
+    "front_full": [3],
+    "back_full": [1],
+    "logo_detail": [3],
+    "front_structure_detail": [3],
+    "back_structure_detail": [1],
+    "shared_structure_detail": [2],
+    "collar_detail": [],
+    "hem_pocket_detail": [],
+    "sleeve_detail": [],
+    "fabric_detail": [],
+    "tag_detail": [],
+    "invalid_or_uncertain": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "sku": "FV8693-010",
+  "brand": "nike",
+  "product_type": "pants",
+  "review_state": "manual_verified",
+  "reference_image_status": "usable_model_worn",
+  "color_authority": 1,
+  "facts": {
+    "brand_display": "NIKE耐克",
+    "official_url": null,
+    "official_title": null,
+    "season": [],
+    "gender": [
+      "男子"
+    ],
+    "product_line": [],
+    "category": "速干长裤",
+    "materials": [],
+    "features": [
+      "速干",
+      "多口袋"
+    ],
+    "use_cases": [
+      "运动",
+      "休闲"
+    ],
+    "styles": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "黑色"
+    ],
+    "tags": []
+  },
+  "roles": {
+    "front_full": [
+      1
+    ],
+    "back_full": [
+      2
+    ],
+    "logo_detail": [
+      7
+    ],
+    "front_structure_detail": [
+      3,
+      6
+    ],
+    "back_structure_detail": [
+      7,
+      5
+    ],
+    "shared_structure_detail": [
+      4,
+      8
+    ],
+    "collar_detail": [],
+    "hem_pocket_detail": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "sleeve_detail": [],
+    "fabric_detail": [],
+    "tag_detail": [],
+    "invalid_or_uncertain": []
+  }
+}

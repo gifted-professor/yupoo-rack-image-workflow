@@ -1,0 +1,90 @@
+{
+  "sku": "HQ0651-423",
+  "brand": "nike",
+  "product_type": "jacket",
+  "review_state": "manual_verified",
+  "reference_image_status": "usable_model_worn",
+  "color_authority": 6,
+  "facts": {
+    "brand_display": "NIKE耐克",
+    "official_url": null,
+    "official_title": null,
+    "season": [],
+    "gender": [
+      "女子"
+    ],
+    "product_line": [],
+    "category": "梭织外套",
+    "materials": [
+      "梭织面料",
+      "80% polyester",
+      "20% spandex",
+      "mesh lining"
+    ],
+    "features": [
+      "连帽",
+      "拉链门襟",
+      "胸前小Swoosh",
+      "弹力袖口",
+      "后中缝细节",
+      "网眼内衬"
+    ],
+    "use_cases": [
+      "运动",
+      "户外",
+      "休闲"
+    ],
+    "styles": [
+      "轻薄运动外套",
+      "简洁连帽夹克"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "浅冰蓝色",
+      "灰色标志"
+    ],
+    "tags": []
+  },
+  "roles": {
+    "front_full": [
+      6
+    ],
+    "back_full": [
+      5
+    ],
+    "logo_detail": [
+      3
+    ],
+    "front_structure_detail": [
+      6
+    ],
+    "back_structure_detail": [
+      5
+    ],
+    "shared_structure_detail": [
+      2,
+      4
+    ],
+    "collar_detail": [
+      4
+    ],
+    "hem_pocket_detail": [],
+    "sleeve_detail": [
+      5,
+      6
+    ],
+    "fabric_detail": [
+      2,
+      3
+    ],
+    "tag_detail": [
+      1
+    ],
+    "invalid_or_uncertain": []
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "sku": "IO9628-100",
+  "brand": "nike",
+  "product_type": "jacket",
+  "review_state": "draft",
+  "reference_image_status": "usable_model_worn",
+  "color_authority": 3,
+  "facts": {
+    "brand_display": "NIKE耐克",
+    "official_url": null,
+    "official_title": null,
+    "season": [],
+    "gender": [
+      "男子"
+    ],
+    "product_line": [],
+    "category": "防晒外套",
+    "materials": [
+      "轻薄面料",
+      "半透明面料"
+    ],
+    "features": [
+      "连帽",
+      "全拉链",
+      "胸前logo",
+      "插手口袋",
+      "下摆抽绳",
+      "松紧袖口",
+      "后背横向拼接"
+    ],
+    "use_cases": [
+      "防晒"
+    ],
+    "styles": [
+      "运动",
+      "休闲",
+      "轻薄外套"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "白色"
+    ],
+    "tags": []
+  },
+  "roles": {
+    "front_full": [
+      3,
+      6
+    ],
+    "back_full": [
+      4
+    ],
+    "logo_detail": [
+      1,
+      3,
+      5,
+      6
+    ],
+    "front_structure_detail": [
+      3,
+      5,
+      6
+    ],
+    "back_structure_detail": [
+      4
+    ],
+    "shared_structure_detail": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "collar_detail": [
+      1,
+      3,
+      5,
+      6
+    ],
+    "hem_pocket_detail": [
+      2,
+      3,
+      5,
+      6
+    ],
+    "sleeve_detail": [
+      1,
+      3,
+      4,
+      5,
+      6
+    ],
+    "fabric_detail": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "tag_detail": [],
+    "invalid_or_uncertain": []
+  }
+}

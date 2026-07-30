@@ -1,0 +1,3518 @@
+{
+  "version": 2,
+  "description": "SKU 目录。state 仅表示待对账状态；是否完成必须由本地产物证据重新判定。",
+  "last_updated": "2026-07-22T04:45:30.162Z",
+  "items": [
+    {
+      "sku": "BV2708-410",
+      "title": "新款BV2708-410 高品质男款直筒加绒长裤 S-XXL 85",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "243244319",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/243244319?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-24"
+          ],
+          "picture_date_min": "2026-06-24",
+          "picture_date_max": "2026-06-24",
+          "in_range_picture_count": 4,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "DX1488-100",
+      "yupoo_url": "",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "244961245",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/244961245?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-07-07"
+          ],
+          "picture_date_min": "2026-07-07",
+          "picture_date_max": "2026-07-07",
+          "in_range_picture_count": 3,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-20",
+      "title": "新款DX1488-100 男士短裤 S-XXL 75",
+      "updated_at": "2026-07-21T17:03:23.561Z",
+      "feishu": {
+        "record_ids": [
+          "recvq1qiqgXO2D",
+          "recvq1qTBcZwNc"
+        ]
+      },
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "FN2799-361",
+      "title": "新款FN2799-361 女款速干短袖 S-XL 50",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "243800871",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/243800871?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-27"
+          ],
+          "picture_date_min": "2026-06-27",
+          "picture_date_max": "2026-06-27",
+          "in_range_picture_count": 5,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "FN2799-423",
+      "title": "FN2799-423 女款速干短袖 S-XL 50",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "243800959",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/243800959?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-27"
+          ],
+          "picture_date_min": "2026-06-27",
+          "picture_date_max": "2026-06-27",
+          "in_range_picture_count": 4,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "FN2799-502",
+      "title": "FN2799-502 女款速干短袖 S-XL 50",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "243800918",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/243800918?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-27"
+          ],
+          "picture_date_min": "2026-06-27",
+          "picture_date_max": "2026-06-27",
+          "in_range_picture_count": 5,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "FN2999-251",
+      "yupoo_url": "",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "246069846",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/246069846?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-07-17"
+          ],
+          "picture_date_min": "2026-07-17",
+          "picture_date_max": "2026-07-17",
+          "in_range_picture_count": 4,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-20",
+      "title": "新款FN2999-251 男款速干短裤 S-XXL 70",
+      "updated_at": "2026-07-21T17:03:23.561Z",
+      "feishu": {
+        "record_ids": [
+          "recvq1qiqgYJy0",
+          "recvq1qTQktEf9"
+        ]
+      },
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "FV8693-010",
+      "yupoo_url": "",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "245473205",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/245473205?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-07-12"
+          ],
+          "picture_date_min": "2026-07-12",
+          "picture_date_max": "2026-07-12",
+          "in_range_picture_count": 8,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-20",
+      "title": "新款 FV8693-010 男子速干长裤 S-XXL 170",
+      "updated_at": "2026-07-21T17:03:23.561Z",
+      "feishu": {
+        "record_ids": [
+          "recvq1qiqg3IFM",
+          "recvq1qU4k8pHD"
+        ]
+      },
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "HM9699-006",
+      "yupoo_url": "",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "245473280",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/245473280?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-07-12"
+          ],
+          "picture_date_min": "2026-07-12",
+          "picture_date_max": "2026-07-12",
+          "in_range_picture_count": 5,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-20",
+      "title": "新款 HM9699-006 女款速干短袖 S-XL 60",
+      "updated_at": "2026-07-21T17:03:23.561Z",
+      "feishu": {
+        "record_ids": [
+          "recvq1qiqg2F4I",
+          "recvq1qUjZh9Yn"
+        ]
+      },
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "HM9699-017",
+      "yupoo_url": "",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "245473355",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/245473355?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-07-12"
+          ],
+          "picture_date_min": "2026-07-12",
+          "picture_date_max": "2026-07-12",
+          "in_range_picture_count": 5,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-20",
+      "title": "新款 HM9699-017 女款速干短袖 S-XL 60",
+      "updated_at": "2026-07-21T17:03:23.561Z",
+      "feishu": {
+        "record_ids": [
+          "recvq1qiqgrS9E",
+          "recvq1qUy1F0mC"
+        ]
+      },
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "HM9699-701",
+      "yupoo_url": "",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "245473384",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/245473384?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-07-12"
+          ],
+          "picture_date_min": "2026-07-12",
+          "picture_date_max": "2026-07-12",
+          "in_range_picture_count": 5,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-20",
+      "title": "新款 HM9699-701 女款速干短袖 S-XL 60",
+      "updated_at": "2026-07-21T17:03:23.561Z",
+      "feishu": {
+        "record_ids": [
+          "recvq1qiqgLtA1",
+          "recvq1qUMZShc5"
+        ]
+      },
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "HM9699-897",
+      "yupoo_url": "",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "245473317",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/245473317?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-07-12"
+          ],
+          "picture_date_min": "2026-07-12",
+          "picture_date_max": "2026-07-12",
+          "in_range_picture_count": 5,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-20",
+      "title": "新款 HM9699-897 女款速干短袖 S-XL 60",
+      "updated_at": "2026-07-21T17:03:23.561Z",
+      "feishu": {
+        "record_ids": [
+          "recvq1qiqg0soK",
+          "recvq1qV0M6uhG"
+        ]
+      },
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "HQ0651-006",
+      "title": "新款HQ0651-006 女款梭织外套 S-XL  170",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "242675885",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242675885?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-19"
+          ],
+          "picture_date_min": "2026-06-19",
+          "picture_date_max": "2026-06-19",
+          "in_range_picture_count": 5,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "HQ0651-010",
+      "title": "新款HQ0651-010 女款梭织外套 S-XL  170",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "242675938",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242675938?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-19"
+          ],
+          "picture_date_min": "2026-06-19",
+          "picture_date_max": "2026-06-19",
+          "in_range_picture_count": 7,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "HQ0651-133",
+      "title": "新款HQ0651-133 女款梭织外套 S-XL  170",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "242675823",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242675823?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-19"
+          ],
+          "picture_date_min": "2026-06-19",
+          "picture_date_max": "2026-06-19",
+          "in_range_picture_count": 6,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "HQ0651-423",
+      "title": "新款HQ0651-423 女款梭织外套 S-XL  170",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "242675915",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242675915?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-19"
+          ],
+          "picture_date_min": "2026-06-19",
+          "picture_date_max": "2026-06-19",
+          "in_range_picture_count": 6,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "HQ0651-502",
+      "title": "新款HQ0651-502 女款梭织外套 S-XL  170",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "242675863",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242675863?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-19"
+          ],
+          "picture_date_min": "2026-06-19",
+          "picture_date_max": "2026-06-19",
+          "in_range_picture_count": 6,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "HQ0651-701",
+      "title": "新款HQ0651-701 女款梭织外套 S-XL  170",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "242675842",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242675842?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-19"
+          ],
+          "picture_date_min": "2026-06-19",
+          "picture_date_max": "2026-06-19",
+          "in_range_picture_count": 6,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "HQ9255-235",
+      "yupoo_url": "",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "244359505",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/244359505?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-07-01"
+          ],
+          "picture_date_min": "2026-07-01",
+          "picture_date_max": "2026-07-01",
+          "in_range_picture_count": 4,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-20",
+      "title": "新款HQ9255-235  男子纯棉背心 S-XXL 70",
+      "updated_at": "2026-07-21T17:03:23.561Z",
+      "feishu": {
+        "record_ids": [
+          "recvq1qiqgFwj4",
+          "recvq1qVgF43mN"
+        ]
+      },
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "HQ9255-355",
+      "yupoo_url": "",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "244359473",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/244359473?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-07-01"
+          ],
+          "picture_date_min": "2026-07-01",
+          "picture_date_max": "2026-07-01",
+          "in_range_picture_count": 4,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-20",
+      "title": "新款HQ9255-355  男子纯棉背心 S-XXL 70",
+      "updated_at": "2026-07-21T17:03:23.561Z",
+      "feishu": {
+        "record_ids": [
+          "recvq1qiqgrFgY",
+          "recvq1qVv7hPLG"
+        ]
+      },
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF0588-006",
+      "title": "新款IF0588-006 女款梭织外套 S-XL 140",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "243244039",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/243244039?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-24"
+          ],
+          "picture_date_min": "2026-06-24",
+          "picture_date_max": "2026-06-24",
+          "in_range_picture_count": 4,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF0756-010",
+      "title": "新款IF0756-010 男子短袖 S-XXL 80",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "242016320",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242016320?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-14"
+          ],
+          "picture_date_min": "2026-06-14",
+          "picture_date_max": "2026-06-14",
+          "in_range_picture_count": 4,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF1167-010",
+      "title": "新款IF1167-010  女款梭织外套 S-XL 150",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "241750117",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/241750117?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-12"
+          ],
+          "picture_date_min": "2026-06-12",
+          "picture_date_max": "2026-06-12",
+          "in_range_picture_count": 6,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF1167-104",
+      "title": "新款IF1167-104  女款梭织外套 S-XL 150",
+      "state": "PARTIAL_RESUME",
+      "sources": [
+        {
+          "album_id": "241750247",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/241750247?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-12"
+          ],
+          "picture_date_min": "2026-06-12",
+          "picture_date_max": "2026-06-12",
+          "in_range_picture_count": 5,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate_missing_views",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "price_previews"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_back"
+        ],
+        "missing_views": [
+          "tryon_detail"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF1167-412",
+      "title": "新款IF1167-412  女款梭织外套 S-XL 150",
+      "state": "PARTIAL_RESUME",
+      "sources": [
+        {
+          "album_id": "241750324",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/241750324?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-12"
+          ],
+          "picture_date_min": "2026-06-12",
+          "picture_date_max": "2026-06-12",
+          "in_range_picture_count": 6,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate_missing_views",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "price_previews"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail"
+        ],
+        "missing_views": [
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF1167-502",
+      "title": "新款IF1167-502 女款梭织外套 S-XL 150",
+      "state": "PARTIAL_RESUME",
+      "sources": [
+        {
+          "album_id": "241750403",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/241750403?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-12"
+          ],
+          "picture_date_min": "2026-06-12",
+          "picture_date_max": "2026-06-12",
+          "in_range_picture_count": 7,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate_missing_views",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "price_previews"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail"
+        ],
+        "missing_views": [
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF1178-010",
+      "title": "新款IF1178-010女款梭织外套 S-XL 140",
+      "state": "PARTIAL_RESUME",
+      "sources": [
+        {
+          "album_id": "244073390",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/244073390?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-29"
+          ],
+          "picture_date_min": "2026-06-29",
+          "picture_date_max": "2026-06-29",
+          "in_range_picture_count": 5,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate_missing_views",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "price_previews"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail"
+        ],
+        "missing_views": [
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF1178-110",
+      "title": "新款IF1178-110 女款梭织外套 S-XL 140",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "244073346",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/244073346?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-29"
+          ],
+          "picture_date_min": "2026-06-29",
+          "picture_date_max": "2026-06-29",
+          "in_range_picture_count": 4,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF1178-247",
+      "title": "新款IF1178-247 女款梭织外套 S-XL 140",
+      "state": "PARTIAL_RESUME",
+      "sources": [
+        {
+          "album_id": "244073440",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/244073440?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-29"
+          ],
+          "picture_date_min": "2026-06-29",
+          "picture_date_max": "2026-06-29",
+          "in_range_picture_count": 4,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate_missing_views",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "price_previews"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_detail"
+        ],
+        "missing_views": [
+          "tryon_main",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF1283-010",
+      "title": "新款IF1283-010  男款速干长裤 S-XXL 130",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "242676002",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242676002?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-19"
+          ],
+          "picture_date_min": "2026-06-19",
+          "picture_date_max": "2026-06-19",
+          "in_range_picture_count": 4,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF1283-097",
+      "title": "新款IF1283-097 男款速干长裤 S-XXL 130",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "242676027",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242676027?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-19"
+          ],
+          "picture_date_min": "2026-06-19",
+          "picture_date_max": "2026-06-19",
+          "in_range_picture_count": 3,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF2021-236",
+      "title": "新款IF2021-236 男款梭织长裤 S-XXL  130",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "242831048",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242831048?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-21"
+          ],
+          "picture_date_min": "2026-06-21",
+          "picture_date_max": "2026-06-21",
+          "in_range_picture_count": 3,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF2021-506",
+      "title": "新款IF2021-506 男款梭织长裤 S-XXL  130",
+      "state": "PARTIAL_RESUME",
+      "sources": [
+        {
+          "album_id": "242831013",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242831013?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-21"
+          ],
+          "picture_date_min": "2026-06-21",
+          "picture_date_max": "2026-06-21",
+          "in_range_picture_count": 5,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate_missing_views",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "price_previews"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail"
+        ],
+        "missing_views": [
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF2051-010",
+      "title": "新款IF2051-010 男款速干短裤 S-XXL 80",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "242016581",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242016581?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-14"
+          ],
+          "picture_date_min": "2026-06-14",
+          "picture_date_max": "2026-06-14",
+          "in_range_picture_count": 4,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF2051-084",
+      "title": "新款IF2051-084 男款速干短裤 S-XXL 80",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "242016608",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242016608?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-14"
+          ],
+          "picture_date_min": "2026-06-14",
+          "picture_date_max": "2026-06-14",
+          "in_range_picture_count": 4,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF2051-737",
+      "title": "新款IF2051-737 男款速干短裤 S-XXL 80",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "242016550",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242016550?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-14"
+          ],
+          "picture_date_min": "2026-06-14",
+          "picture_date_max": "2026-06-14",
+          "in_range_picture_count": 4,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF2083-010",
+      "yupoo_url": "",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "244961135",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/244961135?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-07-07"
+          ],
+          "picture_date_min": "2026-07-07",
+          "picture_date_max": "2026-07-07",
+          "in_range_picture_count": 5,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-20",
+      "title": "新款IF2083-010  男款短袖 S-XXL 55",
+      "updated_at": "2026-07-21T17:03:23.561Z",
+      "feishu": {
+        "record_ids": [
+          "recvq1qiqgegZG",
+          "recvq1qVK9gxBv"
+        ]
+      },
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF2083-100",
+      "yupoo_url": "",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "244961161",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/244961161?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-07-07"
+          ],
+          "picture_date_min": "2026-07-07",
+          "picture_date_max": "2026-07-07",
+          "in_range_picture_count": 5,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-20",
+      "title": "新款IF2083-100 男款短袖 S-XXL 55",
+      "updated_at": "2026-07-21T17:03:23.561Z",
+      "feishu": {
+        "record_ids": [
+          "recvq1qiqgQUoj",
+          "recvq1qVYCsgZH"
+        ]
+      },
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF2155-010",
+      "title": "新款IF2155-010 男款速干梭织长裤 S-XXL 85",
+      "state": "PARTIAL_RESUME",
+      "sources": [
+        {
+          "album_id": "241749897",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/241749897?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-12"
+          ],
+          "picture_date_min": "2026-06-12",
+          "picture_date_max": "2026-06-12",
+          "in_range_picture_count": 6,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate_missing_views",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "price_previews"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": [
+          "tryon_main"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF2155-041",
+      "title": "新款IF2155-041  男款速干梭织长裤 S-XXL 85",
+      "state": "PARTIAL_RESUME",
+      "sources": [
+        {
+          "album_id": "241749955",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/241749955?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-12"
+          ],
+          "picture_date_min": "2026-06-12",
+          "picture_date_max": "2026-06-12",
+          "in_range_picture_count": 4,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate_missing_views",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [
+          "front",
+          "back"
+        ],
+        "missing_views": [
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF2161-010",
+      "title": "新款IF2161-010 男款速干短裤 S-XXL  70",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "242016654",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242016654?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-14"
+          ],
+          "picture_date_min": "2026-06-14",
+          "picture_date_max": "2026-06-14",
+          "in_range_picture_count": 6,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF2161-040",
+      "title": "新款IF2161-040 男款速干短裤 S-XXL  70",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "242016684",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242016684?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-14"
+          ],
+          "picture_date_min": "2026-06-14",
+          "picture_date_max": "2026-06-14",
+          "in_range_picture_count": 4,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF2164-010",
+      "yupoo_url": "",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "245473136",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/245473136?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-07-12"
+          ],
+          "picture_date_min": "2026-07-12",
+          "picture_date_max": "2026-07-12",
+          "in_range_picture_count": 6,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-20",
+      "title": "新款 IF2164-010 男款防晒衣  S-XXL 135",
+      "updated_at": "2026-07-21T17:03:23.561Z",
+      "feishu": {
+        "record_ids": [
+          "recvq1qiqglTHJ",
+          "recvq1qWdYjcwM"
+        ]
+      },
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF2368-010",
+      "title": "新款IF2368-010  男款梭织外套 S-XXL 170",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "242016416",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242016416?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-14"
+          ],
+          "picture_date_min": "2026-06-14",
+          "picture_date_max": "2026-06-14",
+          "in_range_picture_count": 6,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF2368-236",
+      "title": "新款IF2368-236 男款梭织外套 S-XXL 170",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "242016475",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242016475?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-14"
+          ],
+          "picture_date_min": "2026-06-14",
+          "picture_date_max": "2026-06-14",
+          "in_range_picture_count": 6,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF2368-455",
+      "title": "新款IF2368-455  男款梭织外套 S-XXL 170",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "242016442",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242016442?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-14"
+          ],
+          "picture_date_min": "2026-06-14",
+          "picture_date_max": "2026-06-14",
+          "in_range_picture_count": 5,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF2368-506",
+      "title": "新款IF2368-506  男款梭织外套 S-XXL 170",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "242016457",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242016457?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-14"
+          ],
+          "picture_date_min": "2026-06-14",
+          "picture_date_max": "2026-06-14",
+          "in_range_picture_count": 5,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF2785-510",
+      "title": "新款IF2785-510 男款短裤 S-XXL 80",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "242016781",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242016781?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-14"
+          ],
+          "picture_date_min": "2026-06-14",
+          "picture_date_max": "2026-06-14",
+          "in_range_picture_count": 4,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF2788-010",
+      "title": "新款IF2788-010 男款短袖 S-XXL 60",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "241751055",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/241751055?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-12"
+          ],
+          "picture_date_min": "2026-06-12",
+          "picture_date_max": "2026-06-12",
+          "in_range_picture_count": 2,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF2788-100",
+      "title": "新款IF2788-100  男款短袖 S-XXL 60",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "241751017",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/241751017?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-12"
+          ],
+          "picture_date_min": "2026-06-12",
+          "picture_date_max": "2026-06-12",
+          "in_range_picture_count": 3,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IF2788-226",
+      "title": "新款IF2788-226 男款短袖 S-XXL 60",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "241750986",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/241750986?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-12"
+          ],
+          "picture_date_min": "2026-06-12",
+          "picture_date_max": "2026-06-12",
+          "in_range_picture_count": 7,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IH1976-010",
+      "yupoo_url": "",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "244073748",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/244073748?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-29"
+          ],
+          "picture_date_min": "2026-06-29",
+          "picture_date_max": "2026-06-29",
+          "in_range_picture_count": 4,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-20",
+      "title": "新款IH1976-010  男款短袖 S-XXL 55",
+      "updated_at": "2026-07-21T17:03:23.561Z",
+      "feishu": {
+        "record_ids": [
+          "recvq1qiqgmy3d",
+          "recvq1qWsoMGVP"
+        ]
+      },
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IH1976-100",
+      "yupoo_url": "",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "244073783",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/244073783?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-29"
+          ],
+          "picture_date_min": "2026-06-29",
+          "picture_date_max": "2026-06-29",
+          "in_range_picture_count": 5,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-20",
+      "title": "新款IH1976-100  男款短袖 S-XXL 55",
+      "updated_at": "2026-07-21T17:03:23.561Z",
+      "feishu": {
+        "record_ids": [
+          "recvq1qiqg8ly2",
+          "recvq1qWHLHOF4"
+        ]
+      },
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IH1976-253",
+      "yupoo_url": "",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "244073826",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/244073826?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-29"
+          ],
+          "picture_date_min": "2026-06-29",
+          "picture_date_max": "2026-06-29",
+          "in_range_picture_count": 4,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-20",
+      "title": "新款IH1976-253  男款短袖 S-XXL 55",
+      "updated_at": "2026-07-21T17:03:23.561Z",
+      "feishu": {
+        "record_ids": [
+          "recvq1qiqgU1Sf",
+          "recvq1qWVZQN3w"
+        ]
+      },
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IM3758-010",
+      "title": "新款IM3758-010 男款短袖T恤 S-XXL 60",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "244073622",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/244073622?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-29"
+          ],
+          "picture_date_min": "2026-06-29",
+          "picture_date_max": "2026-06-29",
+          "in_range_picture_count": 4,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IM3758-101",
+      "yupoo_url": "",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "244073672",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/244073672?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-29"
+          ],
+          "picture_date_min": "2026-06-29",
+          "picture_date_max": "2026-06-29",
+          "in_range_picture_count": 5,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-20",
+      "title": "新款IM3758-101 男款短袖T恤 S-XXL 60",
+      "updated_at": "2026-07-21T17:03:23.561Z",
+      "feishu": {
+        "record_ids": [
+          "recvq1qiqg2vOG",
+          "recvq1qXaSRiGP"
+        ]
+      },
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IM5059-010",
+      "title": "新款IM5059-010 男款短袖 S-XXL 60",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "243800352",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/243800352?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-27"
+          ],
+          "picture_date_min": "2026-06-27",
+          "picture_date_max": "2026-06-27",
+          "in_range_picture_count": 4,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IM5059-100",
+      "title": "新款IM5059-100 男款短袖 S-XXL 60",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "243800398",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/243800398?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-27"
+          ],
+          "picture_date_min": "2026-06-27",
+          "picture_date_max": "2026-06-27",
+          "in_range_picture_count": 3,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IM5059-222",
+      "title": "新款IM5059-222 男款短袖 S-XXL 60",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "243800437",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/243800437?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-27"
+          ],
+          "picture_date_min": "2026-06-27",
+          "picture_date_max": "2026-06-27",
+          "in_range_picture_count": 4,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IO9628-100",
+      "title": "新款IO9628-100  男款防晒衣  S-XXL  155",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "241750586",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/241750586?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-12"
+          ],
+          "picture_date_min": "2026-06-12",
+          "picture_date_max": "2026-06-12",
+          "in_range_picture_count": 6,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IO9628-104",
+      "title": "新款IO9628-104 男款防晒衣  S-XXL  155",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "241750809",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/241750809?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-12"
+          ],
+          "picture_date_min": "2026-06-12",
+          "picture_date_max": "2026-06-12",
+          "in_range_picture_count": 4,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IO9628-394",
+      "title": "新款IO9628-394  男款防晒衣  S-XXL  155",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "241750708",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/241750708?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-12"
+          ],
+          "picture_date_min": "2026-06-12",
+          "picture_date_max": "2026-06-12",
+          "in_range_picture_count": 5,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IO9628-407",
+      "title": "新款IO9628-407 男款防晒衣  S-XXL  155",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "241750646",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/241750646?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-12"
+          ],
+          "picture_date_min": "2026-06-12",
+          "picture_date_max": "2026-06-12",
+          "in_range_picture_count": 5,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IV4813-010",
+      "title": "新款IV4813-010  男款短袖T恤 S-XXL 55",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "244073494",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/244073494?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-29"
+          ],
+          "picture_date_min": "2026-06-29",
+          "picture_date_max": "2026-06-29",
+          "in_range_picture_count": 6,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IV4813-100",
+      "title": "新款IV4813-100  男款短袖T恤 S-XXL 55",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "244073553",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/244073553?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-29"
+          ],
+          "picture_date_min": "2026-06-29",
+          "picture_date_max": "2026-06-29",
+          "in_range_picture_count": 4,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IX1577-100",
+      "yupoo_url": "",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "244744550",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/244744550?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-07-05"
+          ],
+          "picture_date_min": "2026-07-05",
+          "picture_date_max": "2026-07-05",
+          "in_range_picture_count": 3,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-20",
+      "title": "新款IX1577-100  男款短袖T恤 S-XXL 65",
+      "updated_at": "2026-07-21T17:03:23.561Z",
+      "feishu": {
+        "record_ids": [
+          "recvq1qiqgKGJm",
+          "recvq1qXpXVpxj"
+        ]
+      },
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "IX1577-274",
+      "yupoo_url": "",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "244744565",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/244744565?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-07-05"
+          ],
+          "picture_date_min": "2026-07-05",
+          "picture_date_max": "2026-07-05",
+          "in_range_picture_count": 3,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-20",
+      "title": "新款IX1577-274 男款短袖T恤 S-XXL 65",
+      "updated_at": "2026-07-21T17:03:23.561Z",
+      "feishu": {
+        "record_ids": [
+          "recvq1qiqg93B3",
+          "recvq1qXF1BDET"
+        ]
+      },
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "JF5957-010",
+      "title": "新款JF5957-010  女款短袖 S-XL  60",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "244073230",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/244073230?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-29"
+          ],
+          "picture_date_min": "2026-06-29",
+          "picture_date_max": "2026-06-29",
+          "in_range_picture_count": 3,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "JF5957-797",
+      "title": "新款JF5957-797  女款短袖 S-XL  60",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "244073286",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/244073286?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-29"
+          ],
+          "picture_date_min": "2026-06-29",
+          "picture_date_max": "2026-06-29",
+          "in_range_picture_count": 3,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "JW0038",
+      "title": "新款JW0038 男款短袖 XS-XL 60",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "242299964",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242299964?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-16"
+          ],
+          "picture_date_min": "2026-06-16",
+          "picture_date_max": "2026-06-16",
+          "in_range_picture_count": 6,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "JW0039",
+      "title": "新款JW0039 男款短袖 XS-XL 60",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "242300014",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242300014?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-16"
+          ],
+          "picture_date_min": "2026-06-16",
+          "picture_date_max": "2026-06-16",
+          "in_range_picture_count": 6,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "JY7632",
+      "title": "新款JY7632 女款短裙 S-XL 70",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "243243748",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/243243748?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-24"
+          ],
+          "picture_date_min": "2026-06-24",
+          "picture_date_max": "2026-06-24",
+          "in_range_picture_count": 6,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "JY7634",
+      "title": "新款JY7634 女款短裙 S-XL 70",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "243243817",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/243243817?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-24"
+          ],
+          "picture_date_min": "2026-06-24",
+          "picture_date_max": "2026-06-24",
+          "in_range_picture_count": 6,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "JZ6483",
+      "yupoo_url": "",
+      "state": "NEEDS_RECONCILIATION",
+      "sources": [],
+      "added_at": "2026-07-20",
+      "feishu": {
+        "record_ids": [
+          "recvq1qiqgb2EA",
+          "recvq1qXSKscur"
+        ]
+      },
+      "updated_at": "2026-07-21T17:03:23.561Z"
+    },
+    {
+      "sku": "KB7195",
+      "title": "新款KB7195 女款短袖 XS-XL 55",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "243800090",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/243800090?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-27"
+          ],
+          "picture_date_min": "2026-06-27",
+          "picture_date_max": "2026-06-27",
+          "in_range_picture_count": 7,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "KB7196",
+      "title": "新款KB7196 女款短袖 XS-XL 55",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "243800151",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/243800151?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-27"
+          ],
+          "picture_date_min": "2026-06-27",
+          "picture_date_max": "2026-06-27",
+          "in_range_picture_count": 6,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "KB7197",
+      "title": "新款KB7197 女款短袖 XS-XL 55",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "243800263",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/243800263?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-27"
+          ],
+          "picture_date_min": "2026-06-27",
+          "picture_date_max": "2026-06-27",
+          "in_range_picture_count": 7,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "KH2711",
+      "title": "新款KH2711 女款外套 XS-XL 150",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "243421603",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/243421603?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-25"
+          ],
+          "picture_date_min": "2026-06-25",
+          "picture_date_max": "2026-06-25",
+          "in_range_picture_count": 5,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "KH2713",
+      "title": "新款KH2713 女款外套 XS-XL 150",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "243421907",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/243421907?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-25",
+            "2026-06-26"
+          ],
+          "picture_date_min": "2026-06-25",
+          "picture_date_max": "2026-06-26",
+          "in_range_picture_count": 7,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "KR2511",
+      "title": "新款KR2511 男款防晒衣 S-XXL 155",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "242676120",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242676120?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-19"
+          ],
+          "picture_date_min": "2026-06-19",
+          "picture_date_max": "2026-06-19",
+          "in_range_picture_count": 5,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "KR2513",
+      "title": "新款KR2513 男款防晒衣 S-XXL 155",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "242676092",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242676092?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-19"
+          ],
+          "picture_date_min": "2026-06-19",
+          "picture_date_max": "2026-06-19",
+          "in_range_picture_count": 5,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "KT3055",
+      "yupoo_url": "",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "244359438",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/244359438?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-07-01"
+          ],
+          "picture_date_min": "2026-07-01",
+          "picture_date_max": "2026-07-01",
+          "in_range_picture_count": 5,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-20",
+      "title": "新款KT3055 女款外套 XS-XL 125",
+      "updated_at": "2026-07-21T17:03:23.561Z",
+      "feishu": {
+        "record_ids": [
+          "recvq1qiqgrAdi",
+          "recvq1qY7RTw0N"
+        ]
+      },
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "KT3056",
+      "yupoo_url": "",
+      "state": "REVIEW_PENDING",
+      "sources": [
+        {
+          "album_id": "244359412",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/244359412?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-07-01"
+          ],
+          "picture_date_min": "2026-07-01",
+          "picture_date_max": "2026-07-01",
+          "in_range_picture_count": 6,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-20",
+      "title": "新款KT3056 女款外套 XS-XL 125",
+      "updated_at": "2026-07-21T17:03:23.561Z",
+      "feishu": {
+        "record_ids": [
+          "recvq1qiqgUUQE",
+          "recvq1qYmK7z3T"
+        ]
+      },
+      "next_action": "skip_generation_review",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config",
+          "generation",
+          "price_previews",
+          "cover"
+        ],
+        "available_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ],
+        "missing_views": []
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "KT7793",
+      "title": "新款KT7793 女款短袖 XS-XL 60",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "242408606",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242408606?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-17"
+          ],
+          "picture_date_min": "2026-06-17",
+          "picture_date_max": "2026-06-17",
+          "in_range_picture_count": 6,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "KT7794",
+      "title": "新款KT7794 女款短袖 XS-XL 60",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "242408630",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242408630?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-17"
+          ],
+          "picture_date_min": "2026-06-17",
+          "picture_date_max": "2026-06-17",
+          "in_range_picture_count": 6,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "KX5312",
+      "title": "新款KX5312 男款短袖 XS-XL 60",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "242408720",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242408720?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-17"
+          ],
+          "picture_date_min": "2026-06-17",
+          "picture_date_max": "2026-06-17",
+          "in_range_picture_count": 7,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "KX7997",
+      "title": "新款KX7997 针织长裤 XS-XL 100",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "241897537",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/241897537?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-13"
+          ],
+          "picture_date_min": "2026-06-13",
+          "picture_date_max": "2026-06-13",
+          "in_range_picture_count": 9,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "KY2196",
+      "title": "新款KY2196 男款短袖 XS-XL 60",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "241750883",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/241750883?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-12"
+          ],
+          "picture_date_min": "2026-06-12",
+          "picture_date_max": "2026-06-12",
+          "in_range_picture_count": 6,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "KY2197",
+      "title": "新款KY2197 男款短袖 XS-XL 60",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "241750939",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/241750939?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-12"
+          ],
+          "picture_date_min": "2026-06-12",
+          "picture_date_max": "2026-06-12",
+          "in_range_picture_count": 5,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "KY5768",
+      "yupoo_url": "",
+      "state": "NEEDS_RECONCILIATION",
+      "sources": [],
+      "added_at": "2026-07-20",
+      "feishu": {
+        "record_ids": [
+          "recvq1qiqgcV6w",
+          "recvq1qYCblXGc"
+        ]
+      },
+      "updated_at": "2026-07-21T17:03:23.561Z"
+    },
+    {
+      "sku": "KY6270",
+      "title": "新款KY6270 男款短袖 XS-XL 60",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "242408691",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/242408691?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-17"
+          ],
+          "picture_date_min": "2026-06-17",
+          "picture_date_max": "2026-06-17",
+          "in_range_picture_count": 6,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    },
+    {
+      "sku": "KY8484",
+      "title": "新款KY8484 针织长裤 XS-XL 100",
+      "state": "READY_TO_GENERATE",
+      "sources": [
+        {
+          "album_id": "241897639",
+          "url": "https://x.yupoo.com/photos/adidas666888/albums/241897639?uid=1&isSubCate=false&referrercate=200106",
+          "picture_dates": [
+            "2026-06-13"
+          ],
+          "picture_date_min": "2026-06-13",
+          "picture_date_max": "2026-06-13",
+          "in_range_picture_count": 6,
+          "discovered_at": "2026-07-21T17:01:23.298Z"
+        }
+      ],
+      "added_at": "2026-07-21",
+      "updated_at": "2026-07-21T17:01:23.298Z",
+      "next_action": "generate",
+      "stage_evidence": {
+        "completed_stages": [
+          "ingest",
+          "config"
+        ],
+        "available_views": [],
+        "missing_views": [
+          "front",
+          "back",
+          "tryon_main",
+          "tryon_detail",
+          "tryon_back"
+        ]
+      },
+      "reconciled_at": "2026-07-22T04:45:30.162Z"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "settings": {
+    "concurrency": 3,
+    "bridge_url": "http://127.0.0.1:8907/api/image/generate",
+    "max_reference_images": 5
+  },
+  "jobs": [
+    {
+      "enabled": false,
+      "id": "AB1234-001-front-color-repair",
+      "sku": "AB1234-001",
+      "target": "runs/REPLACE_RUN_ID/review/AB1234-001-front.png",
+      "references": [
+        "work/items/AB1234-001/originals/01.png",
+        "work/items/AB1234-001/originals/03.png"
+      ],
+      "prompt": "Targeted correction only. Preserve composition, rack, blank sign and garment structure. Correct every garment color to the Yupoo references; change nothing else."
+    }
+  ]
+}
+

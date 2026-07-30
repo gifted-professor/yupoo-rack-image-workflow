@@ -1,0 +1,81 @@
+{
+  "sku": "KT3056",
+  "brand": "adidas",
+  "product_type": "jacket",
+  "review_state": "manual_verified",
+  "reference_image_status": "usable_model_worn",
+  "color_authority": 3,
+  "facts": {
+    "brand_display": "adidas阿迪达斯",
+    "official_url": null,
+    "official_title": null,
+    "season": [],
+    "gender": [
+      "女子"
+    ],
+    "product_line": [
+      "adidas Originals"
+    ],
+    "category": "连帽外套",
+    "materials": [],
+    "features": [
+      "连帽",
+      "拉链开合",
+      "反光滚边",
+      "下摆抽绳"
+    ],
+    "use_cases": [
+      "运动",
+      "休闲"
+    ],
+    "styles": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "浅蓝色"
+    ],
+    "tags": []
+  },
+  "roles": {
+    "front_full": [
+      3,
+      4,
+      1
+    ],
+    "back_full": [
+      2
+    ],
+    "logo_detail": [
+      5
+    ],
+    "front_structure_detail": [
+      3,
+      4
+    ],
+    "back_structure_detail": [
+      2
+    ],
+    "shared_structure_detail": [
+      5
+    ],
+    "collar_detail": [
+      3
+    ],
+    "hem_pocket_detail": [
+      6
+    ],
+    "sleeve_detail": [
+      5
+    ],
+    "fabric_detail": [
+      5
+    ],
+    "tag_detail": [],
+    "invalid_or_uncertain": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "sku": "HQ9255-355",
+  "brand": "nike",
+  "product_type": "shirt",
+  "review_state": "manual_verified",
+  "reference_image_status": "usable_model_worn",
+  "color_authority": 1,
+  "facts": {
+    "brand_display": "NIKE耐克",
+    "official_url": null,
+    "official_title": null,
+    "season": [],
+    "gender": [
+      "男子"
+    ],
+    "product_line": [],
+    "category": "纯棉背心",
+    "materials": [
+      "棉"
+    ],
+    "features": [
+      "无袖"
+    ],
+    "use_cases": [
+      "休闲"
+    ],
+    "styles": [
+      "图案印花"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "深橄榄灰"
+    ],
+    "tags": []
+  },
+  "roles": {
+    "front_full": [
+      1,
+      4
+    ],
+    "back_full": [
+      3
+    ],
+    "logo_detail": [
+      2
+    ],
+    "front_structure_detail": [
+      2
+    ],
+    "back_structure_detail": [
+      3
+    ],
+    "shared_structure_detail": [
+      2
+    ],
+    "collar_detail": [
+      2
+    ],
+    "hem_pocket_detail": [],
+    "sleeve_detail": [],
+    "fabric_detail": [],
+    "tag_detail": [],
+    "invalid_or_uncertain": []
+  }
+}

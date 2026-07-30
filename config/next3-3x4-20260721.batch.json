@@ -1,0 +1,147 @@
+{
+  "settings": {
+    "concurrency": 3,
+    "bridge_url": "http://127.0.0.1:8907/api/image/generate",
+    "max_reference_images": 5,
+    "prompt_rules": "config/generation-prompt-rules.json",
+    "sign_reference": "assets/price-sign-reference.png",
+    "output_canvas": {"width": 1080, "height": 1440}
+  },
+  "items": [
+    {
+      "enabled": true,
+      "sku": "IH1976-100",
+      "brand": "nike",
+      "product_type": "shirt",
+      "cost": 55,
+      "category": "男装无袖T恤",
+      "category_en": "Men",
+      "views": {
+        "front": {
+          "scene_reference": "assets/store-scenes/10-nike-double-rack-shirts.png",
+          "color_authority": "work/items/IH1976-100/originals/05.png",
+          "product_references": ["work/items/IH1976-100/originals/05.png", "work/items/IH1976-100/originals/02.png", "work/items/IH1976-100/originals/03.png"],
+          "prompt": "Show the exact white IH1976-100 men's long relaxed sleeveless T-shirt front-facing on a black hanger. Preserve the wide extended shoulder caps, crew neck, straight long hem, clean white fabric and the single small violet-blue Nike swoosh centered on the chest. The large back lettering is not visible."
+        },
+        "back": {
+          "scene_reference": "assets/store-scenes/10-nike-double-rack-shirts.png",
+          "color_authority": "work/items/IH1976-100/originals/04.png",
+          "product_references": ["work/items/IH1976-100/originals/04.png", "work/items/IH1976-100/originals/01.png"],
+          "prompt": "Show the exact white IH1976-100 sleeveless T-shirt back-facing on a black hanger. Preserve the large distressed violet-blue stacked 'HARD WORK NEVER STOPS' back graphic with its small swoosh below, the wide extended shoulder caps, crew neck and long straight body. No small front chest swoosh is visible."
+        }
+      },
+      "tryon_views": {
+        "tryon_main": {
+          "scene_reference": "assets/store-scenes/04-nike-close-football-shirt.png",
+          "color_authority": "work/items/IH1976-100/originals/05.png",
+          "product_references": ["work/items/IH1976-100/originals/05.png", "work/items/IH1976-100/originals/02.png", "work/items/IH1976-100/originals/03.png"],
+          "prompt": "An adult man wears the exact white IH1976-100 long relaxed sleeveless T-shirt in a natural in-store mirror selfie. Preserve the wide shoulder caps, crew neck, long loose fit and single small violet-blue centered chest swoosh. The large back phrase is not visible from the front."
+        },
+        "tryon_detail": {
+          "scene_reference": "assets/store-scenes/04-nike-close-football-shirt.png",
+          "color_authority": "work/items/IH1976-100/originals/03.png",
+          "product_references": ["work/items/IH1976-100/originals/03.png", "work/items/IH1976-100/originals/02.png", "work/items/IH1976-100/originals/05.png"],
+          "prompt": "Create a closer chest-to-hip mirror selfie of an adult man wearing IH1976-100. Clearly preserve the white fabric, ribbed crew neck, extended sleeveless shoulder shape and the exact small violet-blue center swoosh. No back lettering appears on the chest."
+        },
+        "tryon_back": {
+          "scene_reference": "assets/store-scenes/04-nike-close-football-shirt.png",
+          "pose_reference": "assets/store-scenes/25-mirror-assisted-back-pose.png",
+          "composition": "side_mirror_reflection",
+          "color_authority": "work/items/IH1976-100/originals/04.png",
+          "product_references": ["work/items/IH1976-100/originals/04.png", "work/items/IH1976-100/originals/05.png"],
+          "prompt": "The foreground shows the same adult man holding the phone while wearing the exact white IH1976-100 front with its small violet-blue center swoosh. One adjacent full-length mirror simultaneously shows his back with the large distressed violet-blue 'HARD WORK NEVER STOPS' graphic and small swoosh below. Preserve the same long sleeveless garment and raised phone arm in both views."
+        }
+      }
+    },
+    {
+      "enabled": true,
+      "sku": "IH1976-010",
+      "brand": "nike",
+      "product_type": "shirt",
+      "cost": 55,
+      "category": "男装无袖T恤",
+      "category_en": "Men",
+      "views": {
+        "front": {
+          "scene_reference": "assets/store-scenes/10-nike-double-rack-shirts.png",
+          "color_authority": "work/items/IH1976-010/originals/04.png",
+          "product_references": ["work/items/IH1976-010/originals/04.png", "work/items/IH1976-010/originals/02.png"],
+          "prompt": "Show the exact washed black IH1976-010 men's long relaxed sleeveless T-shirt front-facing on a black hanger. Preserve the wide extended shoulder caps, crew neck, straight long hem, subtly washed black fabric and the single small white Nike swoosh centered on the chest. The large tonal back lettering is not visible."
+        },
+        "back": {
+          "scene_reference": "assets/store-scenes/10-nike-double-rack-shirts.png",
+          "color_authority": "work/items/IH1976-010/originals/03.png",
+          "product_references": ["work/items/IH1976-010/originals/03.png", "work/items/IH1976-010/originals/01.png"],
+          "prompt": "Show the exact washed black IH1976-010 sleeveless T-shirt back-facing on a black hanger. Preserve the large distressed charcoal-gray stacked 'HARD WORK NEVER STOPS' back graphic with the small swoosh below, wide extended shoulder caps, crew neck and long straight body. No front chest swoosh is visible."
+        }
+      },
+      "tryon_views": {
+        "tryon_main": {
+          "scene_reference": "assets/store-scenes/04-nike-close-football-shirt.png",
+          "color_authority": "work/items/IH1976-010/originals/04.png",
+          "product_references": ["work/items/IH1976-010/originals/04.png", "work/items/IH1976-010/originals/02.png"],
+          "prompt": "An adult man wears the exact washed black IH1976-010 long relaxed sleeveless T-shirt in a natural in-store mirror selfie. Preserve the wide shoulder caps, crew neck, long loose fit and single small white centered chest swoosh. The tonal back phrase is not visible from the front."
+        },
+        "tryon_detail": {
+          "scene_reference": "assets/store-scenes/04-nike-close-football-shirt.png",
+          "color_authority": "work/items/IH1976-010/originals/02.png",
+          "product_references": ["work/items/IH1976-010/originals/02.png", "work/items/IH1976-010/originals/04.png"],
+          "prompt": "Create a closer chest-to-hip mirror selfie of an adult man wearing IH1976-010. Clearly preserve the washed black fabric, ribbed crew neck, extended sleeveless shoulder shape and exact small white center swoosh. No back lettering appears on the chest."
+        },
+        "tryon_back": {
+          "scene_reference": "assets/store-scenes/04-nike-close-football-shirt.png",
+          "pose_reference": "assets/store-scenes/25-mirror-assisted-back-pose.png",
+          "composition": "side_mirror_reflection",
+          "color_authority": "work/items/IH1976-010/originals/03.png",
+          "product_references": ["work/items/IH1976-010/originals/03.png", "work/items/IH1976-010/originals/04.png"],
+          "prompt": "The foreground shows the same adult man holding the phone while wearing the exact washed black IH1976-010 front with its small white center swoosh. One adjacent full-length mirror simultaneously shows his back with the large distressed charcoal-gray 'HARD WORK NEVER STOPS' graphic and small swoosh below. Preserve the same long sleeveless garment and raised phone arm in both views."
+        }
+      }
+    },
+    {
+      "enabled": true,
+      "sku": "IM3758-101",
+      "brand": "nike",
+      "product_type": "shirt",
+      "cost": 60,
+      "category": "男装短袖T恤",
+      "category_en": "Men",
+      "views": {
+        "front": {
+          "scene_reference": "assets/store-scenes/10-nike-double-rack-shirts.png",
+          "color_authority": "work/items/IM3758-101/originals/03.png",
+          "product_references": ["work/items/IM3758-101/originals/03.png", "work/items/IM3758-101/originals/01.png", "work/items/IM3758-101/originals/05.png"],
+          "prompt": "Show the exact pale icy-blue IM3758-101 men's relaxed short-sleeve T-shirt front-facing on a black hanger. Preserve the crew neck, loose straight body, centered thin gray Nike swoosh, two small dark gray motifs near the upper shoulders and two small matching motifs near the lower hem corners."
+        },
+        "back": {
+          "scene_reference": "assets/store-scenes/10-nike-double-rack-shirts.png",
+          "color_authority": "work/items/IM3758-101/originals/02.png",
+          "product_references": ["work/items/IM3758-101/originals/02.png", "work/items/IM3758-101/originals/03.png"],
+          "prompt": "Show the exact pale icy-blue IM3758-101 T-shirt back-facing on a black hanger. Preserve the plain clean back, crew neck, relaxed short sleeves, loose straight body and even hem. None of the front swoosh or four small front motifs is visible."
+        }
+      },
+      "tryon_views": {
+        "tryon_main": {
+          "scene_reference": "assets/store-scenes/04-nike-close-football-shirt.png",
+          "color_authority": "work/items/IM3758-101/originals/03.png",
+          "product_references": ["work/items/IM3758-101/originals/03.png", "work/items/IM3758-101/originals/01.png", "work/items/IM3758-101/originals/04.png"],
+          "prompt": "An adult man wears the exact pale icy-blue IM3758-101 relaxed T-shirt in a natural in-store mirror selfie. Preserve the loose fit, centered thin gray swoosh, paired upper-shoulder motifs and paired lower-hem motifs in their exact locations."
+        },
+        "tryon_detail": {
+          "scene_reference": "assets/store-scenes/04-nike-close-football-shirt.png",
+          "color_authority": "work/items/IM3758-101/originals/05.png",
+          "product_references": ["work/items/IM3758-101/originals/05.png", "work/items/IM3758-101/originals/01.png", "work/items/IM3758-101/originals/03.png"],
+          "prompt": "Create a closer chest-to-hip mirror selfie of an adult man wearing IM3758-101. Clearly preserve the pale icy-blue fabric, crew neck, centered thin gray swoosh, two upper motifs and both small lower-hem motifs without moving or inventing graphics."
+        },
+        "tryon_back": {
+          "scene_reference": "assets/store-scenes/04-nike-close-football-shirt.png",
+          "pose_reference": "assets/store-scenes/25-mirror-assisted-back-pose.png",
+          "composition": "side_mirror_reflection",
+          "color_authority": "work/items/IM3758-101/originals/02.png",
+          "product_references": ["work/items/IM3758-101/originals/02.png", "work/items/IM3758-101/originals/03.png"],
+          "prompt": "The foreground shows the same adult man holding the phone while wearing the exact pale icy-blue IM3758-101 front with its centered swoosh and small front motifs. One adjacent full-length mirror simultaneously shows the plain pale icy-blue back with no print. Preserve the same relaxed short-sleeve T-shirt and raised phone arm in both views."
+        }
+      }
+    }
+  ]
+}

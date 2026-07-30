@@ -1,0 +1,94 @@
+{
+  "sku": "IF1178-247",
+  "brand": "jordan",
+  "product_type": "jacket",
+  "review_state": "draft",
+  "reference_image_status": "usable_model_worn",
+  "color_authority": 4,
+  "facts": {
+    "brand_display": "Jordan乔丹",
+    "official_url": null,
+    "official_title": null,
+    "season": [],
+    "gender": [
+      "女子"
+    ],
+    "product_line": [
+      "Jordan"
+    ],
+    "category": "梭织外套",
+    "materials": [
+      "细密纹理梭织面料"
+    ],
+    "features": [
+      "连帽",
+      "抽绳",
+      "全拉链",
+      "翻盖按扣口袋",
+      "松紧袖口",
+      "松紧下摆",
+      "后背育克拼接",
+      "胸前刺绣标志"
+    ],
+    "use_cases": [
+      "日常休闲",
+      "轻便外搭"
+    ],
+    "styles": [
+      "短款连帽夹克",
+      "休闲运动风",
+      "宽松廓形"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "浅卡其绿"
+    ],
+    "tags": []
+  },
+  "roles": {
+    "front_full": [
+      4
+    ],
+    "back_full": [
+      3
+    ],
+    "logo_detail": [
+      2
+    ],
+    "front_structure_detail": [
+      2,
+      4
+    ],
+    "back_structure_detail": [
+      3
+    ],
+    "shared_structure_detail": [
+      1,
+      3,
+      4
+    ],
+    "collar_detail": [
+      2
+    ],
+    "hem_pocket_detail": [
+      1,
+      4
+    ],
+    "sleeve_detail": [
+      1,
+      3,
+      4
+    ],
+    "fabric_detail": [
+      1,
+      2
+    ],
+    "tag_detail": [],
+    "invalid_or_uncertain": []
+  }
+}

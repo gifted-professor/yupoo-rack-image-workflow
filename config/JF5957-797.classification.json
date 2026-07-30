@@ -1,0 +1,94 @@
+{
+  "sku": "JF5957-797",
+  "brand": "nike",
+  "product_type": "shirt",
+  "review_state": "draft",
+  "reference_image_status": "usable_model_worn",
+  "color_authority": 3,
+  "facts": {
+    "brand_display": "NIKE耐克",
+    "official_url": null,
+    "official_title": null,
+    "season": [],
+    "gender": [
+      "女子"
+    ],
+    "product_line": [],
+    "category": "短袖T恤",
+    "materials": [
+      "针织T恤面料"
+    ],
+    "features": [
+      "圆领",
+      "短袖",
+      "插肩袖缝线",
+      "胸前印花/刺绣风格图案",
+      "后领下方小logo"
+    ],
+    "use_cases": [
+      "休闲穿搭",
+      "运动休闲"
+    ],
+    "styles": [
+      "女款",
+      "短袖T恤",
+      "修身休闲"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "浅黄色",
+      "橙黄色图案",
+      "白色字样"
+    ],
+    "tags": []
+  },
+  "roles": {
+    "front_full": [
+      3
+    ],
+    "back_full": [
+      2
+    ],
+    "logo_detail": [
+      1,
+      2,
+      3
+    ],
+    "front_structure_detail": [
+      1,
+      3
+    ],
+    "back_structure_detail": [
+      2
+    ],
+    "shared_structure_detail": [
+      1,
+      2,
+      3
+    ],
+    "collar_detail": [
+      2,
+      3
+    ],
+    "hem_pocket_detail": [
+      3
+    ],
+    "sleeve_detail": [
+      1,
+      2,
+      3
+    ],
+    "fabric_detail": [
+      1,
+      2,
+      3
+    ],
+    "tag_detail": [],
+    "invalid_or_uncertain": []
+  }
+}

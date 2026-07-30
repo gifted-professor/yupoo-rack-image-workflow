@@ -1,0 +1,112 @@
+{
+  "sku": "HQ0651-010",
+  "brand": "nike",
+  "product_type": "jacket",
+  "review_state": "manual_verified",
+  "reference_image_status": "usable_model_worn",
+  "color_authority": 3,
+  "facts": {
+    "brand_display": "NIKE耐克",
+    "official_url": null,
+    "official_title": null,
+    "season": [],
+    "gender": [
+      "女子"
+    ],
+    "product_line": [
+      "running"
+    ],
+    "category": "梭织外套",
+    "materials": [
+      "80% polyester 20% spandex body",
+      "100% polyester mesh"
+    ],
+    "features": [
+      "attached hood",
+      "full front zipper",
+      "elastic cuffs",
+      "Nike swoosh chest logo",
+      "reflective sleeve dashes",
+      "reflective center-back dashes",
+      "side pocket area"
+    ],
+    "use_cases": [
+      "running",
+      "sports",
+      "casual outerwear"
+    ],
+    "styles": [
+      "women's hooded woven jacket",
+      "lightweight athletic jacket"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "黑色"
+    ],
+    "tags": []
+  },
+  "roles": {
+    "front_full": [
+      3,
+      5
+    ],
+    "back_full": [
+      4
+    ],
+    "logo_detail": [
+      3,
+      5,
+      6,
+      7
+    ],
+    "front_structure_detail": [
+      3,
+      5,
+      6,
+      7
+    ],
+    "back_structure_detail": [
+      4
+    ],
+    "shared_structure_detail": [
+      3,
+      4,
+      5
+    ],
+    "collar_detail": [
+      3,
+      5,
+      6,
+      7
+    ],
+    "hem_pocket_detail": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "sleeve_detail": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "fabric_detail": [
+      2,
+      3,
+      5,
+      7
+    ],
+    "tag_detail": [
+      1,
+      2
+    ],
+    "invalid_or_uncertain": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "sku": "HM9699-897",
+  "brand": "nike",
+  "product_type": "shirt",
+  "review_state": "manual_verified",
+  "reference_image_status": "usable_model_worn",
+  "color_authority": 1,
+  "facts": {
+    "brand_display": "NIKE耐克",
+    "official_url": null,
+    "official_title": null,
+    "season": [],
+    "gender": ["女子"],
+    "product_line": [],
+    "category": "女装短袖",
+    "materials": [],
+    "features": ["速干", "透气"],
+    "use_cases": ["运动", "休闲"],
+    "styles": [],
+    "sizes": [],
+    "colors": ["粉色"],
+    "tags": []
+  },
+  "roles": {
+    "front_full": [1],
+    "back_full": [2],
+    "logo_detail": [3],
+    "front_structure_detail": [4],
+    "back_structure_detail": [5],
+    "shared_structure_detail": [3],
+    "collar_detail": [],
+    "hem_pocket_detail": [],
+    "sleeve_detail": [],
+    "fabric_detail": [],
+    "tag_detail": [],
+    "invalid_or_uncertain": []
+  }
+}

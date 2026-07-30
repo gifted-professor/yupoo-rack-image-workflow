@@ -1,0 +1,74 @@
+{
+  "sku": "JZ6483",
+  "brand": "adidas",
+  "product_type": "shirt",
+  "review_state": "manual_verified",
+  "reference_image_status": "usable_model_worn",
+  "color_authority": 2,
+  "facts": {
+    "brand_display": "adidas阿迪达斯",
+    "official_url": null,
+    "official_title": null,
+    "season": [],
+    "gender": [
+      "男子"
+    ],
+    "product_line": [
+      "adidas Originals"
+    ],
+    "category": "短袖T恤",
+    "materials": [],
+    "features": [
+      "圆领",
+      "肩袖三色条纹",
+      "双胸标"
+    ],
+    "use_cases": [
+      "休闲"
+    ],
+    "styles": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "白色"
+    ],
+    "tags": []
+  },
+  "roles": {
+    "front_full": [
+      2,
+      4,
+      1
+    ],
+    "back_full": [
+      3
+    ],
+    "logo_detail": [
+      1
+    ],
+    "front_structure_detail": [
+      2
+    ],
+    "back_structure_detail": [
+      3
+    ],
+    "shared_structure_detail": [
+      1
+    ],
+    "collar_detail": [
+      1
+    ],
+    "hem_pocket_detail": [],
+    "sleeve_detail": [
+      1
+    ],
+    "fabric_detail": [],
+    "tag_detail": [],
+    "invalid_or_uncertain": []
+  }
+}

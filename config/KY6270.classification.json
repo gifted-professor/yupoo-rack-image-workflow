@@ -1,0 +1,91 @@
+{
+  "sku": "KY6270",
+  "brand": "adidas",
+  "product_type": "shirt",
+  "review_state": "draft",
+  "reference_image_status": "usable_model_worn",
+  "color_authority": 6,
+  "facts": {
+    "brand_display": "adidas阿迪达斯",
+    "official_url": null,
+    "official_title": null,
+    "season": [],
+    "gender": [
+      "男子"
+    ],
+    "product_line": [
+      "adidas Originals"
+    ],
+    "category": "短袖T恤",
+    "materials": [
+      "针织面料"
+    ],
+    "features": [
+      "圆领",
+      "短袖",
+      "三条纹袖子",
+      "正面印花",
+      "侧缝织标",
+      "背面小三叶草标志"
+    ],
+    "use_cases": [
+      "休闲穿着"
+    ],
+    "styles": [
+      "宽松T恤",
+      "图案T恤"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "粉色",
+      "白色",
+      "黄色",
+      "深粉色",
+      "紫色"
+    ],
+    "tags": []
+  },
+  "roles": {
+    "front_full": [
+      1,
+      6
+    ],
+    "back_full": [
+      5
+    ],
+    "logo_detail": [
+      4
+    ],
+    "front_structure_detail": [
+      6
+    ],
+    "back_structure_detail": [
+      5
+    ],
+    "shared_structure_detail": [],
+    "collar_detail": [
+      6
+    ],
+    "hem_pocket_detail": [
+      3
+    ],
+    "sleeve_detail": [
+      2
+    ],
+    "fabric_detail": [
+      3,
+      4
+    ],
+    "tag_detail": [
+      3,
+      6
+    ],
+    "invalid_or_uncertain": []
+  }
+}

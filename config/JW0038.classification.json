@@ -1,0 +1,92 @@
+{
+  "sku": "JW0038",
+  "brand": "adidas",
+  "product_type": "shirt",
+  "review_state": "draft",
+  "reference_image_status": "usable_model_worn",
+  "color_authority": 4,
+  "facts": {
+    "brand_display": "adidas阿迪达斯",
+    "official_url": null,
+    "official_title": null,
+    "season": [],
+    "gender": [
+      "男子"
+    ],
+    "product_line": [
+      "adidas skateboarding"
+    ],
+    "category": "短袖T恤",
+    "materials": [],
+    "features": [
+      "圆领",
+      "短袖",
+      "正面小胸标",
+      "背面大印花",
+      "平直下摆"
+    ],
+    "use_cases": [],
+    "styles": [
+      "运动休闲",
+      "滑板风"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "黑色",
+      "白色印花"
+    ],
+    "tags": []
+  },
+  "roles": {
+    "front_full": [
+      4,
+      6
+    ],
+    "back_full": [
+      3,
+      5
+    ],
+    "logo_detail": [
+      1,
+      2
+    ],
+    "front_structure_detail": [
+      2
+    ],
+    "back_structure_detail": [
+      1
+    ],
+    "shared_structure_detail": [
+      4,
+      6
+    ],
+    "collar_detail": [
+      2,
+      4,
+      6
+    ],
+    "hem_pocket_detail": [
+      4,
+      6
+    ],
+    "sleeve_detail": [
+      1,
+      4,
+      6
+    ],
+    "fabric_detail": [
+      1,
+      2
+    ],
+    "tag_detail": [
+      4
+    ],
+    "invalid_or_uncertain": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "status": "active",
+  "currency": "CNY",
+  "cost_ratio_target": 0.6,
+  "fixed_markup": 0,
+  "round_step": 10,
+  "price_ending": 9,
+  "badge_template": "特价 ¥{sale_price}",
+  "show_reference_price": false,
+  "show_discount_rate": false,
+  "notes": "拿货价除以 0.6，再向上取以 9 结尾的价格。135 -> 229；60 -> 109。价格牌不显示建议零售价和折扣率。"
+}
+

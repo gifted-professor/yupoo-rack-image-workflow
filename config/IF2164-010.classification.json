@@ -1,0 +1,73 @@
+{
+  "sku": "IF2164-010",
+  "brand": "nike",
+  "product_type": "jacket",
+  "review_state": "manual_verified",
+  "reference_image_status": "usable_model_worn",
+  "color_authority": 1,
+  "facts": {
+    "brand_display": "NIKE耐克",
+    "official_url": null,
+    "official_title": null,
+    "season": [],
+    "gender": [
+      "男子"
+    ],
+    "product_line": [],
+    "category": "轻薄防晒夹克",
+    "materials": [],
+    "features": [
+      "防晒",
+      "连帽",
+      "拉链开合"
+    ],
+    "use_cases": [
+      "户外",
+      "运动",
+      "休闲"
+    ],
+    "styles": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "黑色"
+    ],
+    "tags": []
+  },
+  "roles": {
+    "front_full": [
+      1
+    ],
+    "back_full": [
+      2
+    ],
+    "logo_detail": [
+      4
+    ],
+    "front_structure_detail": [
+      3,
+      5
+    ],
+    "back_structure_detail": [
+      6
+    ],
+    "shared_structure_detail": [],
+    "collar_detail": [
+      3
+    ],
+    "hem_pocket_detail": [
+      5
+    ],
+    "sleeve_detail": [
+      6
+    ],
+    "fabric_detail": [],
+    "tag_detail": [],
+    "invalid_or_uncertain": []
+  }
+}

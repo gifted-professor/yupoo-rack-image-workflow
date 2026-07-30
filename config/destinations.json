@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "destinations": {
+    "szwego": {
+      "label": "微购相册",
+      "short_label": "微购",
+      "accepts_approval": true,
+      "connector_status": "dry_run_only",
+      "accent": "#ff5a36"
+    },
+    "xiaohongshu": {
+      "label": "小红书",
+      "short_label": "小红书",
+      "accepts_approval": false,
+      "connector_status": "planned",
+      "accent": "#d4213d"
+    }
+  }
+}

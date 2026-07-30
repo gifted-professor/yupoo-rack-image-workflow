@@ -1,0 +1,196 @@
+{
+  "version": 1,
+  "settings": {
+    "concurrency": 4,
+    "bridge_url": "http://127.0.0.1:8907/api/image/generate",
+    "max_reference_images": 5,
+    "prompt_rules": "config/generation-prompt-rules.json",
+    "sign_reference": "assets/price-sign-reference.png"
+  },
+  "items": [
+    {
+      "enabled": true,
+      "sku": "FN2999-251",
+      "brand": "nike",
+      "product_type": "shorts",
+      "cost": 70,
+      "category": "男装短裤",
+      "category_en": "Men Shorts",
+      "views": {
+        "front": {
+          "scene_reference": "assets/store-scenes/10-nike-double-rack-shirts.png",
+          "color_authority": "work/items/FN2999-251/originals/01.png",
+          "product_references": [
+            "work/items/FN2999-251/originals/01.png",
+            "work/items/FN2999-251/originals/02.png"
+          ],
+          "prompt": "Show the exact FN2999-251 light-khaki/beige Nike men's quick-dry athletic shorts FRONT-FACING on a black hanger. Preserve the elastic waistband, loose knee-length cut, small black Nike swoosh on the lower-right leg, and the side seam construction. Do not move the back view onto the front."
+        },
+        "back": {
+          "scene_reference": "assets/store-scenes/10-nike-double-rack-shirts.png",
+          "color_authority": "work/items/FN2999-251/originals/01.png",
+          "product_references": [
+            "work/items/FN2999-251/originals/03.png",
+            "work/items/FN2999-251/originals/01.png"
+          ],
+          "prompt": "Show the exact FN2999-251 light-khaki/beige Nike men's quick-dry athletic shorts BACK-FACING on a black hanger. Preserve the smooth back panel, elastic waistband, knee-length cut and side seams. Do not silently reuse the front view."
+        }
+      },
+      "tryon_views": {
+        "tryon_main": {
+          "scene_reference": "assets/store-scenes/04-nike-close-football-shirt.png",
+          "color_authority": "work/items/FN2999-251/originals/01.png",
+          "product_references": [
+            "work/items/FN2999-251/originals/04.png",
+            "work/items/FN2999-251/originals/02.png",
+            "work/items/FN2999-251/originals/01.png"
+          ],
+          "prompt": "An adult man naturally tries on the exact FN2999-251 light-khaki Nike quick-dry shorts inside a stocked sportswear store. Use a front or slight three-quarter phone photo and preserve the elastic waistband, knee-length loose fit, and small black Nike swoosh on the lower-right leg."
+        },
+        "tryon_detail": {
+          "scene_reference": "assets/store-scenes/08-nike-close-white-jacket-front.png",
+          "color_authority": "work/items/FN2999-251/originals/01.png",
+          "product_references": [
+            "work/items/FN2999-251/originals/04.png",
+            "work/items/FN2999-251/originals/02.png",
+            "work/items/FN2999-251/originals/01.png"
+          ],
+          "prompt": "Create a closer waist-to-knee in-store phone photo of an adult man wearing the exact FN2999-251 shorts. Keep the true khaki color, elastic waistband, side seams, knee length and small black Nike swoosh exactly faithful."
+        },
+        "tryon_back": {
+          "scene_reference": "assets/store-scenes/04-nike-close-football-shirt.png",
+          "color_authority": "work/items/FN2999-251/originals/03.png",
+          "product_references": [
+            "work/items/FN2999-251/originals/03.png",
+            "work/items/FN2999-251/originals/04.png"
+          ],
+          "prompt": "An adult man stands facing AWAY from the camera in an in-store mirror selfie, showing the BACK of the exact FN2999-251 light-khaki Nike quick-dry shorts. Preserve the elastic waistband, knee-length loose fit, back seam and the small black Nike swoosh. The front is not visible from this back angle."
+        }
+      }
+    },
+    {
+      "enabled": true,
+      "sku": "HM9699-701",
+      "brand": "nike",
+      "product_type": "shirt",
+      "cost": 60,
+      "category": "女装短袖",
+      "category_en": "Women Tee",
+      "views": {
+        "front": {
+          "scene_reference": "assets/store-scenes/10-nike-double-rack-shirts.png",
+          "color_authority": "work/items/HM9699-701/originals/01.png",
+          "product_references": [
+            "work/items/HM9699-701/originals/01.png",
+            "work/items/HM9699-701/originals/03.png",
+            "work/items/HM9699-701/originals/05.png"
+          ],
+          "prompt": "Show the exact HM9699-701 neon yellow/lime Nike women's quick-dry short-sleeve tee FRONT-FACING on a black hanger. Preserve the crew neck, short sleeves, athletic fit, raglan seams, small dark Nike swoosh on the upper chest and small reflective side marks. Do not move the back view onto the front."
+        },
+        "back": {
+          "scene_reference": "assets/store-scenes/10-nike-double-rack-shirts.png",
+          "color_authority": "work/items/HM9699-701/originals/02.png",
+          "product_references": [
+            "work/items/HM9699-701/originals/02.png",
+            "work/items/HM9699-701/originals/04.png",
+            "work/items/HM9699-701/originals/01.png"
+          ],
+          "prompt": "Show the exact HM9699-701 neon yellow/lime Nike women's quick-dry short-sleeve tee BACK-FACING on a black hanger. Preserve the semi-transparent textured central back ventilation panel, small reflective vent marks near the upper spine, raglan seams, crew neck and short sleeves. Do not silently reuse the front view."
+        }
+      },
+      "tryon_views": {
+        "tryon_main": {
+          "scene_reference": "assets/store-scenes/04-nike-close-football-shirt.png",
+          "color_authority": "work/items/HM9699-701/originals/01.png",
+          "product_references": [
+            "work/items/HM9699-701/originals/05.png",
+            "work/items/HM9699-701/originals/01.png",
+            "work/items/HM9699-701/originals/03.png"
+          ],
+          "prompt": "An adult woman naturally tries on the exact HM9699-701 neon yellow/lime Nike quick-dry tee inside a stocked sportswear store. Use a front or slight three-quarter phone photo and preserve the crew neck, short sleeves, athletic fit, raglan seams, small dark chest swoosh and reflective side marks."
+        },
+        "tryon_detail": {
+          "scene_reference": "assets/store-scenes/08-nike-close-white-jacket-front.png",
+          "color_authority": "work/items/HM9699-701/originals/01.png",
+          "product_references": [
+            "work/items/HM9699-701/originals/03.png",
+            "work/items/HM9699-701/originals/01.png",
+            "work/items/HM9699-701/originals/05.png"
+          ],
+          "prompt": "Create a closer chest-to-hip in-store phone photo of an adult woman wearing the exact HM9699-701 tee. Keep the true neon yellow/lime color, crew neck, raglan seams, fabric drape, short sleeves, dark chest swoosh and reflective side marks exactly faithful."
+        },
+        "tryon_back": {
+          "scene_reference": "assets/store-scenes/04-nike-close-football-shirt.png",
+          "color_authority": "work/items/HM9699-701/originals/02.png",
+          "product_references": [
+            "work/items/HM9699-701/originals/02.png",
+            "work/items/HM9699-701/originals/04.png"
+          ],
+          "prompt": "An adult woman stands facing AWAY from the camera in an in-store mirror selfie, showing the BACK of the exact HM9699-701 neon yellow/lime Nike quick-dry tee. The back mesh panel and reflective detailing must be fully visible. Preserve the crew neck, raglan seams, short sleeves and athletic fit, and match the neon yellow/lime colorway exactly. The front chest is not visible from this back angle."
+        }
+      }
+    },
+    {
+      "enabled": true,
+      "sku": "HM9699-017",
+      "brand": "nike",
+      "product_type": "shirt",
+      "cost": 60,
+      "category": "女装短袖",
+      "category_en": "Women Tee",
+      "views": {
+        "front": {
+          "scene_reference": "assets/store-scenes/10-nike-double-rack-shirts.png",
+          "color_authority": "work/items/HM9699-017/originals/01.png",
+          "product_references": [
+            "work/items/HM9699-017/originals/01.png",
+            "work/items/HM9699-017/originals/03.png",
+            "work/items/HM9699-017/originals/05.png"
+          ],
+          "prompt": "Show the exact HM9699-017 mint/seafoam Nike women's quick-dry short-sleeve tee FRONT-FACING on a black hanger. Preserve the crew neck, short sleeves, athletic fit, raglan seams, tiny pale chest swoosh and curved hem. Do not move the back view onto the front."
+        },
+        "back": {
+          "scene_reference": "assets/store-scenes/10-nike-double-rack-shirts.png",
+          "color_authority": "work/items/HM9699-017/originals/02.png",
+          "product_references": [
+            "work/items/HM9699-017/originals/02.png",
+            "work/items/HM9699-017/originals/04.png",
+            "work/items/HM9699-017/originals/01.png"
+          ],
+          "prompt": "Show the exact HM9699-017 mint/seafoam Nike women's quick-dry short-sleeve tee BACK-FACING on a black hanger. Preserve the darker textured central back ventilation panel, smooth side panels, raglan seams from the shoulders, crew neck, short sleeves and curved hem. Do not silently reuse the front view."
+        }
+      },
+      "tryon_views": {
+        "tryon_main": {
+          "scene_reference": "assets/store-scenes/04-nike-close-football-shirt.png",
+          "color_authority": "work/items/HM9699-017/originals/01.png",
+          "product_references": [
+            "work/items/HM9699-017/originals/05.png",
+            "work/items/HM9699-017/originals/01.png",
+            "work/items/HM9699-017/originals/03.png"
+          ],
+          "prompt": "An adult woman naturally tries on the exact HM9699-017 mint/seafoam Nike quick-dry tee inside a stocked sportswear store. Use a front or slight three-quarter phone photo and preserve the crew neck, short sleeves, athletic fit, raglan seams, tiny pale chest swoosh and curved hem."
+        },
+        "tryon_detail": {
+          "scene_reference": "assets/store-scenes/08-nike-close-white-jacket-front.png",
+          "color_authority": "work/items/HM9699-017/originals/01.png",
+          "product_references": [
+            "work/items/HM9699-017/originals/03.png",
+            "work/items/HM9699-017/originals/01.png",
+            "work/items/HM9699-017/originals/04.png"
+          ],
+          "prompt": "Create a closer chest-to-hip in-store phone photo of an adult woman wearing the exact HM9699-017 tee. Keep the true mint/seafoam color, crew neck, short sleeves, raglan seams, tiny pale chest swoosh, fabric drape and curved hem exactly faithful."
+        },
+        "tryon_back": {
+          "scene_reference": "assets/store-scenes/04-nike-close-football-shirt.png",
+          "color_authority": "work/items/HM9699-017/originals/02.png",
+          "product_references": [
+            "work/items/HM9699-017/originals/02.png",
+            "work/items/HM9699-017/originals/04.png"
+          ],
+          "prompt": "An adult woman stands facing AWAY from the camera in an in-store mirror selfie, showing the BACK of the exact HM9699-017 mint/seafoam Nike quick-dry tee. The back mesh panel and curved hem must be fully visible. Preserve the crew neck, short sleeves, raglan seams and athletic fit, and match the mint/seafoam colorway exactly. The front chest is not visible from this back angle."
+        }
+      }
+    }
+  ]
+}

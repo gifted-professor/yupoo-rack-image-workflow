@@ -1,0 +1,76 @@
+{
+  "settings": {
+    "concurrency": 1,
+    "bridge_url": "http://127.0.0.1:8907/api/image/generate",
+    "max_reference_images": 5,
+    "prompt_rules": "config/generation-prompt-rules.json",
+    "sign_reference": "assets/price-sign-reference.png",
+    "output_canvas": {"width": 1080, "height": 1440}
+  },
+  "items": [
+    {
+      "enabled": true,
+      "enabled_views": ["tryon_detail"],
+      "sku": "IH1976-100",
+      "brand": "nike",
+      "product_type": "shirt",
+      "cost": 55,
+      "category": "男装无袖T恤",
+      "category_en": "Men",
+      "views": {
+        "front": {
+          "scene_reference": "assets/store-scenes/10-nike-double-rack-shirts.png",
+          "color_authority": "work/items/IH1976-100/originals/05.png",
+          "product_references": ["work/items/IH1976-100/originals/05.png"],
+          "prompt": "Unused retry placeholder."
+        },
+        "back": {
+          "scene_reference": "assets/store-scenes/10-nike-double-rack-shirts.png",
+          "color_authority": "work/items/IH1976-100/originals/04.png",
+          "product_references": ["work/items/IH1976-100/originals/04.png"],
+          "prompt": "Unused retry placeholder."
+        }
+      },
+      "tryon_views": {
+        "tryon_detail": {
+          "scene_reference": "assets/store-scenes/04-nike-close-football-shirt.png",
+          "color_authority": "work/items/IH1976-100/originals/03.png",
+          "product_references": ["work/items/IH1976-100/originals/03.png", "work/items/IH1976-100/originals/02.png", "work/items/IH1976-100/originals/05.png"],
+          "prompt": "Create a closer chest-to-hip mirror selfie of an adult man wearing IH1976-100. Clearly preserve the white fabric, ribbed crew neck, extended sleeveless shoulder shape and the exact small violet-blue center swoosh. No back lettering appears on the chest."
+        }
+      }
+    },
+    {
+      "enabled": true,
+      "enabled_views": ["tryon_main"],
+      "sku": "IM3758-101",
+      "brand": "nike",
+      "product_type": "shirt",
+      "cost": 60,
+      "category": "男装短袖T恤",
+      "category_en": "Men",
+      "views": {
+        "front": {
+          "scene_reference": "assets/store-scenes/10-nike-double-rack-shirts.png",
+          "color_authority": "work/items/IM3758-101/originals/03.png",
+          "product_references": ["work/items/IM3758-101/originals/03.png"],
+          "prompt": "Unused retry placeholder."
+        },
+        "back": {
+          "scene_reference": "assets/store-scenes/10-nike-double-rack-shirts.png",
+          "color_authority": "work/items/IM3758-101/originals/02.png",
+          "product_references": ["work/items/IM3758-101/originals/02.png"],
+          "prompt": "Unused retry placeholder."
+        }
+      },
+      "tryon_views": {
+        "tryon_main": {
+          "scene_reference": "assets/store-scenes/04-nike-close-football-shirt.png",
+          "color_authority": "work/items/IM3758-101/originals/03.png",
+          "product_references": ["work/items/IM3758-101/originals/03.png", "work/items/IM3758-101/originals/01.png", "work/items/IM3758-101/originals/04.png"],
+          "prompt": "An adult man wears the exact pale icy-blue IM3758-101 relaxed T-shirt in a natural in-store mirror selfie. Preserve the loose fit, centered thin gray swoosh, paired upper-shoulder motifs and paired lower-hem motifs in their exact locations."
+        }
+      }
+    }
+  ]
+}

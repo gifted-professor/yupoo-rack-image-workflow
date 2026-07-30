@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "settings": {
+    "concurrency": 4,
+    "bridge_url": "http://127.0.0.1:8907/api/image/generate",
+    "max_reference_images": 5,
+    "prompt_rules": "config/generation-prompt-rules.json",
+    "sign_reference": "assets/price-sign-reference.png",
+    "output_canvas": {"width": 1080, "height": 1440}
+  },
+  "items": [
+    {
+      "enabled": true,
+      "sku": "HM9699-897",
+      "brand": "nike",
+      "product_type": "shirt",
+      "cost": 60,
+      "category": "女装",
+      "category_en": "Women",
+      "views": {
+        "front": {
+          "scene_reference": "assets/store-scenes/10-nike-double-rack-shirts.png",
+          "color_authority": "examples/yupoo/HM9699-897/01.png",
+          "product_references": [
+            "examples/yupoo/HM9699-897/01.png",
+            "examples/yupoo/HM9699-897/03.png",
+            "examples/yupoo/HM9699-897/04.png"
+          ],
+          "prompt": "Show the exact HM9699-897 sea-coral women's short-sleeve running top FRONT-FACING on a black hanger. Preserve the crew neck, curved hem, tiny reflective silver left-chest swoosh and tiny lower-side reflective marks."
+        },
+        "back": {
+          "scene_reference": "assets/store-scenes/10-nike-double-rack-shirts.png",
+          "color_authority": "examples/yupoo/HM9699-897/02.png",
+          "product_references": [
+            "examples/yupoo/HM9699-897/02.png",
+            "examples/yupoo/HM9699-897/05.png",
+            "examples/yupoo/HM9699-897/01.png"
+          ],
+          "prompt": "Show the exact HM9699-897 sea-coral women's short-sleeve running top BACK-FACING on a black hanger. Preserve the central tapered breathable mesh panel, stacked short reflective marks, short sleeves and curved hem. No back swoosh."
+        }
+      },
+      "tryon_views": {
+        "tryon_main": {
+          "scene_reference": "assets/store-scenes/04-nike-close-football-shirt.png",
+          "color_authority": "examples/yupoo/HM9699-897/01.png",
+          "product_references": [
+            "examples/yupoo/HM9699-897/01.png",
+            "examples/yupoo/HM9699-897/03.png",
+            "examples/yupoo/HM9699-897/04.png"
+          ],
+          "prompt": "An adult woman naturally tries on the exact HM9699-897 sea-coral short-sleeve running top inside a Nike-style retail store. Show a front or slight three-quarter mirror-selfie view and preserve the relaxed fit, curved hem, reflective chest swoosh and all small reflective marks."
+        },
+        "tryon_detail": {
+          "scene_reference": "assets/store-scenes/08-nike-close-white-jacket-front.png",
+          "color_authority": "examples/yupoo/HM9699-897/01.png",
+          "product_references": [
+            "examples/yupoo/HM9699-897/01.png",
+            "examples/yupoo/HM9699-897/03.png",
+            "examples/yupoo/HM9699-897/04.png"
+          ],
+          "prompt": "Create a closer chest-to-hip in-store mirror-selfie of an adult woman wearing the exact HM9699-897 top. Keep the true crew neck, sleeves, fabric drape, curved hem, reflective chest swoosh and side marks fully faithful to the product references."
+        }
+      }
+    }
+  ]
+}

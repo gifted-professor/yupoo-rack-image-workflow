@@ -1,0 +1,100 @@
+{
+  "sku": "HQ0651-502",
+  "brand": "nike",
+  "product_type": "jacket",
+  "review_state": "manual_verified",
+  "reference_image_status": "usable_model_worn",
+  "color_authority": 6,
+  "facts": {
+    "brand_display": "NIKE耐克",
+    "official_url": null,
+    "official_title": null,
+    "season": [],
+    "gender": [
+      "女子"
+    ],
+    "product_line": [
+      "Nike Running"
+    ],
+    "category": "梭织外套",
+    "materials": [
+      "body: 80% polyester, 20% spandex",
+      "mesh: 100% polyester",
+      "lightweight woven fabric"
+    ],
+    "features": [
+      "hood",
+      "drawcord",
+      "full zip front",
+      "elastic cuffs",
+      "side pocket/zip opening",
+      "reflective back dots",
+      "curved/drop hem",
+      "rear seam panels"
+    ],
+    "use_cases": [
+      "running",
+      "athletic wear",
+      "light outerwear"
+    ],
+    "styles": [
+      "women's sport jacket",
+      "hooded running jacket"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "藕紫色",
+      "浅灰色胸前Nike标"
+    ],
+    "tags": []
+  },
+  "roles": {
+    "front_full": [
+      6
+    ],
+    "back_full": [
+      5
+    ],
+    "logo_detail": [
+      2,
+      4,
+      6
+    ],
+    "front_structure_detail": [
+      4,
+      6
+    ],
+    "back_structure_detail": [
+      3,
+      5
+    ],
+    "shared_structure_detail": [
+      1
+    ],
+    "collar_detail": [
+      4
+    ],
+    "hem_pocket_detail": [
+      1
+    ],
+    "sleeve_detail": [
+      1,
+      5,
+      6
+    ],
+    "fabric_detail": [
+      1,
+      2,
+      4
+    ],
+    "tag_detail": [
+      2
+    ],
+    "invalid_or_uncertain": []
+  }
+}

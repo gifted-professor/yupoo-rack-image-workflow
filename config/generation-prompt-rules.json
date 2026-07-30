@@ -1,0 +1,80 @@
+{
+  "reference_roles": {
+    "product_identity": "Yupoo 正面、反面和细节图是商品款式的唯一事实来源。",
+    "color_authority": "每个视角指定一张光线均匀的 Yupoo 商品图作为唯一颜色基准。",
+    "scene_only": "门店参考图只控制货架、密度、灯光、手机拍摄感和实体空白价格牌。",
+    "pose_only": "背面试穿构图参考只控制人物、镜子和相机的位置，不提供商品款式、颜色、Logo、文字或图案。",
+    "sign_only": "价格牌参考图只控制橙色上联、黑色下联和金属框结构，不提供文字。"
+  },
+  "required_rules": [
+    "Vertical realistic smartphone photo in a busy stocked sportswear store in China.",
+    "Product references are the only authority for garment identity, construction, logo placement, and color.",
+    "The declared Yupoo color-authority image is the sole color authority. Match hue, saturation, and brightness.",
+    "Do not make the garment brighter, darker, more vivid, neon, fluorescent, redder, or more magenta.",
+    "The hero garment and every duplicate behind it must use the identical colorway.",
+    "Store references control only rack design, density, lighting, camera feel, and the physical sign.",
+    "Place a real metal-framed sign on the same rack with a completely blank orange upper panel and blank black lower panel.",
+    "No letters, numbers, logos, symbols, pseudo-text, person, mannequin, or watermark.",
+    "Do not invent pockets, seams, graphics, stripes, panels, vents, or hidden product details."
+  ],
+  "tryon_required_rules": [
+    "Vertical realistic smartphone photo, a mirror selfie taken inside a busy stocked sportswear store in China.",
+    "Composition is a mirror selfie: the model holds the phone up in front of the face so the face is mostly hidden and not identifiable — no clear facial features, no portrait, no locked identity.",
+    "Use an adult model in a natural in-store mirror-selfie pose; the person and styling are presentation only.",
+    "The model holds the phone up so the face is never identifiable; orientation (front vs back) is set per view by the direction rule, not here.",
+    "Product references are the only authority for garment identity, construction, logo placement, graphics, proportions, and color.",
+    "The declared Yupoo color-authority image is the sole color authority. Match hue, saturation, brightness, and fabric appearance.",
+    "Preserve the exact neckline, sleeves, hem, fit, seams, pockets, zippers, panels, stripes, graphics, and logo size and placement.",
+    "Do not slim, crop, tuck, roll, layer over, recolor, restyle, or otherwise redesign the hero garment unless the product reference itself shows that construction.",
+    "The garment must fit naturally on the body with plausible folds and no fused fingers, doubled limbs, warped anatomy, or cloth-body intersections.",
+    "Use ordinary retail lighting and a credible phone-camera look, not a studio campaign, runway, catalog cutout, or luxury editorial.",
+    "No price sign, invented text, pseudo-text, watermark, collage, or extra product colorway."
+  ],
+  "tryon_back_required_rules": [
+    "Vertical realistic smartphone photo taken inside a busy stocked sportswear store in China.",
+    "Use an adult model in a natural retail try-on pose; the person, mirror, phone, and styling are presentation only.",
+    "The back-view composition must use either a normal companion-captured rear photo or a physically plausible side/front selfie with the garment back visible only in one adjacent full-length mirror.",
+    "Never place a phone against the back of the head. Never bend an arm behind the head or invent an impossible over-the-shoulder selfie pose.",
+    "For a direct rear photo, the model simply faces away with both arms relaxed and no phone visible in the model's hands.",
+    "For a mirror-assisted photo, use a physically plausible two-mirror retail setup: the camera photographs the foreground selfie in the main mirror while one angled side mirror shows the same person's back at the exact same instant.",
+    "The foreground and back reflection must have identical limb positions. If the foreground phone arm is raised to the face, the corresponding arm and bent elbow must also be raised in the back reflection — never show both reflected arms hanging down.",
+    "The foreground and back reflection must show the same complete outfit at the same instant; never change, add, or remove an upper or lower garment between the two views.",
+    "When both garment sides are visible, preserve the true front-facing garment content in the foreground (chest, waist, pockets, panels, stripes, graphics, or logos as applicable) and the true back content only in the back reflection; neither side may become blank or exchange details.",
+    "The face must remain non-identifiable: hidden by the phone in a mirror-assisted view, or naturally turned away in a direct rear view.",
+    "Product references are the only authority for garment identity, construction, logo placement, graphics, proportions, and color.",
+    "The declared Yupoo color-authority image is the sole color authority. Match hue, saturation, brightness, and fabric appearance.",
+    "Preserve the exact back neckline, hood, sleeves, hem, fit, seams, pockets, zippers, panels, stripes, graphics, and logo size and placement.",
+    "Do not copy any garment, logo, lettering, color blocking, or graphic from the pose or store reference.",
+    "The garment must fit naturally with plausible folds and no fused fingers, doubled limbs, duplicated people, mismatched reflections, inconsistent phone arms, warped anatomy, or cloth-body intersections.",
+    "Use ordinary retail lighting and a credible phone-camera look, not a studio campaign, runway, catalog cutout, or luxury editorial.",
+    "No price sign, invented text, pseudo-text, watermark, collage, or extra product colorway."
+  ],
+  "qa_gate": {
+    "required": true,
+    "checks": [
+      "正反面方向正确",
+      "主色和所有重复陈列商品与颜色基准一致",
+      "Logo 位置、尺寸和方向正确",
+      "领口、袖口、下摆、口袋、拉链、拼接线没有增删",
+      "实体价格牌存在且橙色、黑色区域完全空白",
+      "没有伪文字、水印、人物或人体模特"
+    ],
+    "failure_action": "REPAIR_REQUIRED",
+    "success_action": "APPROVED_FOR_PRICE"
+  },
+  "tryon_qa_gate": {
+    "required": true,
+    "checks": [
+      "商品颜色与唯一颜色基准一致",
+      "Logo、图案、文字、条纹的位置、方向、尺寸和数量正确",
+      "领口、袖口、下摆、口袋、拉链、拼接线和整体版型没有增删或变形",
+      "衣物在人体上的褶皱、垂感和遮挡关系自然，没有穿模",
+      "人物为成年人，手指、手臂和身体结构自然",
+      "正面试穿由手机遮脸；背面试穿采用同行者后方直拍，或前景正常自拍加侧边镜中完整背影，脸部均不可识别",
+      "背面试穿没有手机贴后脑、手臂绕后、重复人物、镜像动作不一致或镜中商品变款",
+      "场景像实体运动门店手机实拍，无水印、伪文字、拼图和价格牌"
+    ],
+    "failure_action": "REPAIR_REQUIRED",
+    "success_action": "APPROVED_FOR_PUBLISH"
+  }
+}

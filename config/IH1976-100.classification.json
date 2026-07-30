@@ -1,0 +1,38 @@
+{
+  "sku": "IH1976-100",
+  "brand": "nike",
+  "product_type": "shirt",
+  "review_state": "manual_verified",
+  "reference_image_status": "usable_model_worn",
+  "color_authority": 5,
+  "facts": {
+    "brand_display": "NIKE耐克",
+    "official_url": null,
+    "official_title": null,
+    "season": [],
+    "gender": ["男子"],
+    "product_line": [],
+    "category": "无袖T恤",
+    "materials": [],
+    "features": ["后背字母印花"],
+    "use_cases": ["日常休闲"],
+    "styles": [],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "colors": ["白色"],
+    "tags": []
+  },
+  "roles": {
+    "front_full": [5],
+    "back_full": [4],
+    "logo_detail": [2, 3],
+    "front_structure_detail": [2, 3],
+    "back_structure_detail": [1],
+    "shared_structure_detail": [],
+    "collar_detail": [2],
+    "hem_pocket_detail": [],
+    "sleeve_detail": [2],
+    "fabric_detail": [],
+    "tag_detail": [],
+    "invalid_or_uncertain": []
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "version": 3,
+  "selection_rule": "每次模型调用固定使用 1 张门店场景、1 张空白牌结构参考、最多 3 张 Yupoo 商品图，总数不得超过 5。",
+  "sign_reference": "assets/price-sign-reference.png",
+  "scenes": [
+    {"id":"adidas-close-white-jacket","brand":"adidas","path":"assets/store-scenes/01-adidas-close-white-jacket.png","tags":["front","close","jacket","stocked"]},
+    {"id":"adidas-close-blue-jacket","brand":"adidas","path":"assets/store-scenes/02-adidas-close-blue-jacket.png","tags":["front","close","jacket","stocked"]},
+    {"id":"adidas-close-brown-jacket","brand":"adidas","path":"assets/store-scenes/03-adidas-close-brown-jacket.png","tags":["front","close","jacket"]},
+    {"id":"nike-close-football-shirt","brand":"nike","path":"assets/store-scenes/04-nike-close-football-shirt.png","tags":["front","close","shirt","stocked"]},
+    {"id":"adidas-close-navy-shirt","brand":"adidas","path":"assets/store-scenes/05-adidas-close-navy-shirt.png","tags":["front","close","shirt","stocked"]},
+    {"id":"mixed-close-navy-shirt","brand":"mixed","path":"assets/store-scenes/06-mixed-close-navy-shirt.png","tags":["front","close","shirt"]},
+    {"id":"adidas-sale-rack","brand":"adidas","path":"assets/store-scenes/07-adidas-sale-rack.png","tags":["front","wide","sale-sign","busy-store"]},
+    {"id":"nike-close-white-jacket-front","brand":"nike","path":"assets/store-scenes/08-nike-close-white-jacket-front.png","tags":["front","close","jacket","wall-rack"]},
+    {"id":"nike-close-white-jacket-back","brand":"nike","path":"assets/store-scenes/09-nike-close-white-jacket-back.png","tags":["back","close","jacket","wall-rack"]},
+    {"id":"nike-double-rack-shirts","brand":"nike","path":"assets/store-scenes/10-nike-double-rack-shirts.png","tags":["front","back","wide","shirt","stocked"]},
+    {"id":"nike-full-rack-jackets","brand":"nike","path":"assets/store-scenes/11-nike-full-rack-jackets.png","tags":["front","back","wide","jacket","stocked"]},
+    {"id":"nike-mixed-rack","brand":"nike","path":"assets/store-scenes/12-nike-mixed-rack.png","tags":["front","back","wide","mixed-apparel","stocked"]},
+    {"id":"nike-orange-price-board-149","brand":"nike","path":"assets/store-scenes/13-nike-orange-price-board-149.png","tags":["front","wide","orange-price-board","stocked"]},
+    {"id":"nike-orange-price-board-119","brand":"nike","path":"assets/store-scenes/14-nike-orange-price-board-119.png","tags":["front","wide","orange-price-board","stocked"]},
+    {"id":"nike-orange-price-board-155","brand":"nike","path":"assets/store-scenes/15-nike-orange-price-board-155.png","tags":["front","wide","orange-price-board","stocked"]},
+    {"id":"nike-orange-price-board-wide","brand":"nike","path":"assets/store-scenes/16-nike-orange-price-board-wide.png","tags":["front","wide","orange-price-board","stocked"]},
+    {"id":"adidas-green-recommend-tag","brand":"adidas","path":"assets/store-scenes/17-adidas-green-recommend-tag.png","tags":["front","close","green-hangtag","stocked"]},
+    {"id":"adidas-stocked-shirt-front","brand":"adidas","path":"assets/store-scenes/18-adidas-stocked-shirt-front.png","priority":20,"tags":["front","close","shirt","stocked","blank-price-board"]},
+    {"id":"adidas-stocked-shirt-back","brand":"adidas","path":"assets/store-scenes/19-adidas-stocked-shirt-back.png","priority":20,"tags":["back","close","shirt","stocked","blank-price-board"]},
+    {"id":"adidas-stocked-jacket-front","brand":"adidas","path":"assets/store-scenes/20-adidas-stocked-jacket-front.png","priority":20,"tags":["front","close","jacket","stocked","blank-price-board"]},
+    {"id":"adidas-stocked-jacket-back","brand":"adidas","path":"assets/store-scenes/21-adidas-stocked-jacket-back.png","priority":20,"tags":["back","close","jacket","stocked","blank-price-board"]},
+    {"id":"adidas-grid-rack-shirt","brand":"adidas","path":"assets/store-scenes/22-adidas-grid-rack-shirt.png","priority":5,"tags":["front","close","shirt","stocked","grid-rack"]},
+    {"id":"adidas-handheld-jacket","brand":"adidas","path":"assets/store-scenes/23-adidas-handheld-jacket.png","priority":5,"tags":["front","close","jacket","handheld"]},
+    {"id":"adidas-dark-wall-shirt","brand":"adidas","path":"assets/store-scenes/24-adidas-dark-wall-shirt.png","priority":5,"tags":["front","close","shirt","stocked","wall-rack"]},
+    {"id":"mirror-assisted-back-pose","brand":"mixed","path":"assets/store-scenes/25-mirror-assisted-back-pose.png","priority":0,"tags":["back","tryon","pose-only","side-mirror-reflection"]}
+  ]
+}

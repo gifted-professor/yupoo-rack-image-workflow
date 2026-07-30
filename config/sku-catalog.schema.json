@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Yupoo SKU Catalog",
+  "type": "object",
+  "required": ["version", "items"],
+  "properties": {
+    "version": { "const": 2 },
+    "last_updated": { "type": "string" },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["sku", "state", "sources"],
+        "properties": {
+          "sku": { "type": "string", "minLength": 1 },
+          "state": { "type": "string", "minLength": 1 },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["picture_dates", "in_range_picture_count"],
+              "properties": {
+                "album_id": { "type": ["string", "null"] },
+                "url": { "type": ["string", "null"] },
+                "picture_dates": { "type": "array", "items": { "type": "string" } },
+                "picture_date_min": { "type": ["string", "null"] },
+                "picture_date_max": { "type": ["string", "null"] },
+                "in_range_picture_count": { "type": "integer", "minimum": 0 }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

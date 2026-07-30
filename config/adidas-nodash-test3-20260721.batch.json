@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "settings": {
+    "concurrency": 3,
+    "bridge_url": "http://127.0.0.1:8907/api/image/generate",
+    "max_reference_images": 5,
+    "prompt_rules": "config/generation-prompt-rules.json",
+    "sign_reference": "assets/price-sign-reference.png"
+  },
+  "items": [
+    {
+      "enabled": true,
+      "sku": "JZ6483",
+      "brand": "adidas",
+      "product_type": "shirt",
+      "cost": 70,
+      "category": "男装",
+      "category_en": "Men",
+      "views": {
+        "front": {
+          "scene_reference": "assets/store-scenes/18-adidas-stocked-shirt-front.png",
+          "color_authority": "work/items/JZ6483/originals/02.png",
+          "product_references": ["work/items/JZ6483/originals/02.png", "work/items/JZ6483/originals/01.png", "work/items/JZ6483/originals/04.png"],
+          "prompt": "Show the exact JZ6483 white men's short-sleeve Adidas Originals shirt front-facing on a black hanger. Preserve the dark green ribbed crew neck, narrow dark-green and red stripes running over both shoulders and sleeves, green Trefoil on the left chest, embroidered crest patch on the right chest, straight body and short sleeves."
+        },
+        "back": {
+          "scene_reference": "assets/store-scenes/19-adidas-stocked-shirt-back.png",
+          "color_authority": "work/items/JZ6483/originals/03.png",
+          "product_references": ["work/items/JZ6483/originals/03.png", "work/items/JZ6483/originals/01.png"],
+          "prompt": "Show the exact JZ6483 white shirt back-facing on a black hanger. Preserve the plain clean white back, dark green ribbed rear collar, narrow green-and-red shoulder-to-sleeve stripes, short sleeves and straight hem. Neither front chest emblem is visible."
+        }
+      },
+      "tryon_views": {
+        "tryon_main": {
+          "scene_reference": "assets/store-scenes/22-adidas-grid-rack-shirt.png",
+          "color_authority": "work/items/JZ6483/originals/02.png",
+          "product_references": ["work/items/JZ6483/originals/02.png", "work/items/JZ6483/originals/01.png", "work/items/JZ6483/originals/04.png"],
+          "prompt": "An adult man wears the exact white JZ6483 shirt in a natural sports-outlet mirror selfie. Preserve the regular fit, green collar, green-red sleeve stripes, green Trefoil and embroidered crest patch on their correct chest sides."
+        },
+        "tryon_detail": {
+          "scene_reference": "assets/store-scenes/24-adidas-dark-wall-shirt.png",
+          "color_authority": "work/items/JZ6483/originals/01.png",
+          "product_references": ["work/items/JZ6483/originals/01.png", "work/items/JZ6483/originals/02.png"],
+          "prompt": "Create a closer chest-to-hip in-store mirror selfie of an adult man wearing JZ6483. Clearly preserve the white fabric, dark green rib collar, two narrow shoulder stripes, green Trefoil and detailed crest patch."
+        },
+        "tryon_back": {
+          "scene_reference": "assets/store-scenes/22-adidas-grid-rack-shirt.png",
+          "color_authority": "work/items/JZ6483/originals/03.png",
+          "product_references": ["work/items/JZ6483/originals/03.png", "work/items/JZ6483/originals/01.png"],
+          "prompt": "An adult man faces away in an in-store mirror selfie, showing the exact plain white JZ6483 back. Preserve the green rear collar and green-red sleeve stripes; no front chest emblems are visible."
+        }
+      }
+    },
+    {
+      "enabled": true,
+      "sku": "KT3056",
+      "brand": "adidas",
+      "product_type": "jacket",
+      "cost": 125,
+      "category": "女装",
+      "category_en": "Women",
+      "views": {
+        "front": {
+          "scene_reference": "assets/store-scenes/20-adidas-stocked-jacket-front.png",
+          "color_authority": "work/items/KT3056/originals/03.png",
+          "product_references": ["work/items/KT3056/originals/03.png", "work/items/KT3056/originals/04.png", "work/items/KT3056/originals/05.png"],
+          "prompt": "Show the exact KT3056 very light icy-blue women's cropped hooded windbreaker front-facing on a black hanger. Preserve the lightweight crinkled fabric, full zipper, white hood drawcords, thin white reflective piping across the chest and sleeves, small tonal-white Trefoil on the left chest, elastic cuffs and adjustable cropped hem."
+        },
+        "back": {
+          "scene_reference": "assets/store-scenes/21-adidas-stocked-jacket-back.png",
+          "color_authority": "work/items/KT3056/originals/02.png",
+          "product_references": ["work/items/KT3056/originals/02.png", "work/items/KT3056/originals/05.png"],
+          "prompt": "Show the exact KT3056 icy-blue cropped hooded windbreaker back-facing on a black hanger. Preserve the hood, wide upper-back yoke, thin white reflective piping across the back and sleeves, clean unprinted back panel, elastic cuffs and cropped hem. No front Trefoil is visible."
+        }
+      },
+      "tryon_views": {
+        "tryon_main": {
+          "scene_reference": "assets/store-scenes/23-adidas-handheld-jacket.png",
+          "color_authority": "work/items/KT3056/originals/03.png",
+          "product_references": ["work/items/KT3056/originals/03.png", "work/items/KT3056/originals/04.png", "work/items/KT3056/originals/01.png"],
+          "prompt": "An adult woman wears the exact icy-blue KT3056 cropped hooded windbreaker in a natural in-store mirror selfie. Preserve its loose cropped fit, hood, white cords, zipper, reflective piping, tonal chest Trefoil and elastic cuffs."
+        },
+        "tryon_detail": {
+          "scene_reference": "assets/store-scenes/23-adidas-handheld-jacket.png",
+          "color_authority": "work/items/KT3056/originals/05.png",
+          "product_references": ["work/items/KT3056/originals/05.png", "work/items/KT3056/originals/03.png", "work/items/KT3056/originals/06.png"],
+          "prompt": "Create a closer chest-to-hip in-store mirror selfie of an adult woman wearing KT3056. Clearly preserve the pale icy-blue crinkled fabric, white piping, zipper, tonal Trefoil, hood cords and adjustable cropped hem."
+        },
+        "tryon_back": {
+          "scene_reference": "assets/store-scenes/21-adidas-stocked-jacket-back.png",
+          "color_authority": "work/items/KT3056/originals/02.png",
+          "product_references": ["work/items/KT3056/originals/02.png", "work/items/KT3056/originals/05.png"],
+          "prompt": "An adult woman faces away in an in-store mirror selfie, showing the exact KT3056 back. Preserve the hood, upper-back yoke, white reflective piping, clean icy-blue back panel and cropped silhouette; no chest logo is visible."
+        }
+      }
+    },
+    {
+      "enabled": true,
+      "sku": "KY5768",
+      "brand": "adidas",
+      "product_type": "shirt",
+      "cost": 115,
+      "category": "男装",
+      "category_en": "Men",
+      "views": {
+        "front": {
+          "scene_reference": "assets/store-scenes/18-adidas-stocked-shirt-front.png",
+          "color_authority": "work/items/KY5768/originals/04.png",
+          "product_references": ["work/items/KY5768/originals/04.png", "work/items/KY5768/originals/01.png", "work/items/KY5768/originals/05.png"],
+          "prompt": "Show the exact KY5768 light chambray-blue men's short-sleeve button-up shirt front-facing on a black hanger. Preserve the pointed collar, white buttons, left chest patch pocket with a small white Trefoil, relaxed straight fit, subtle woven texture and curved shirt-tail hem."
+        },
+        "back": {
+          "scene_reference": "assets/store-scenes/19-adidas-stocked-shirt-back.png",
+          "color_authority": "work/items/KY5768/originals/03.png",
+          "product_references": ["work/items/KY5768/originals/03.png", "work/items/KY5768/originals/02.png", "work/items/KY5768/originals/06.png"],
+          "prompt": "Show the exact KY5768 light chambray-blue short-sleeve shirt back-facing on a black hanger. Preserve the pointed rear collar, clean back yoke, central box pleat with small hanging loop, small black Adidas tab near the lower center-back seam, short sleeves and curved shirt-tail hem. The front pocket and Trefoil are not visible."
+        }
+      },
+      "tryon_views": {
+        "tryon_main": {
+          "scene_reference": "assets/store-scenes/22-adidas-grid-rack-shirt.png",
+          "color_authority": "work/items/KY5768/originals/05.png",
+          "product_references": ["work/items/KY5768/originals/05.png", "work/items/KY5768/originals/07.png", "work/items/KY5768/originals/04.png"],
+          "prompt": "An adult man wears the exact light-blue KY5768 short-sleeve button-up shirt in a natural in-store mirror selfie. Preserve the relaxed overshirt fit, pointed collar, white buttons, chest pocket with small white Trefoil and curved hem."
+        },
+        "tryon_detail": {
+          "scene_reference": "assets/store-scenes/24-adidas-dark-wall-shirt.png",
+          "color_authority": "work/items/KY5768/originals/04.png",
+          "product_references": ["work/items/KY5768/originals/01.png", "work/items/KY5768/originals/04.png", "work/items/KY5768/originals/05.png"],
+          "prompt": "Create a closer chest-to-hip in-store mirror selfie of an adult man wearing KY5768. Clearly preserve the chambray-blue woven texture, pointed collar, white button placket, chest pocket, small white Trefoil and curved hem."
+        },
+        "tryon_back": {
+          "scene_reference": "assets/store-scenes/22-adidas-grid-rack-shirt.png",
+          "color_authority": "work/items/KY5768/originals/03.png",
+          "product_references": ["work/items/KY5768/originals/03.png", "work/items/KY5768/originals/06.png", "work/items/KY5768/originals/02.png"],
+          "prompt": "An adult man faces away in an in-store mirror selfie, showing the exact KY5768 back. Preserve the light chambray-blue color, rear collar, back yoke, center box pleat, small black Adidas tab near the lower center-back seam and curved shirt-tail hem; the front pocket and Trefoil are not visible."
+        }
+      }
+    }
+  ]
+}

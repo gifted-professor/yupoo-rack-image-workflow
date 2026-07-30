@@ -1,0 +1,89 @@
+{
+  "sku": "KH2713",
+  "brand": "unknown",
+  "product_type": "jacket",
+  "review_state": "manual_verified",
+  "reference_image_status": "usable_model_worn",
+  "color_authority": 5,
+  "facts": {
+    "brand_display": "未确认品牌",
+    "official_url": null,
+    "official_title": null,
+    "season": [],
+    "gender": [
+      "女子"
+    ],
+    "product_line": [],
+    "category": "梭织外套",
+    "materials": [
+      "轻薄梭织面料"
+    ],
+    "features": [
+      "连帽",
+      "全开拉链",
+      "弹力袖口",
+      "下摆抽绳",
+      "侧袋"
+    ],
+    "use_cases": [
+      "户外",
+      "日常"
+    ],
+    "styles": [
+      "运动休闲"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "白色"
+    ],
+    "tags": []
+  },
+  "roles": {
+    "front_full": [
+      5,
+      6,
+      7
+    ],
+    "back_full": [
+      4
+    ],
+    "logo_detail": [],
+    "front_structure_detail": [
+      5,
+      6
+    ],
+    "back_structure_detail": [
+      4
+    ],
+    "shared_structure_detail": [],
+    "collar_detail": [
+      5,
+      6
+    ],
+    "hem_pocket_detail": [
+      5,
+      6,
+      7
+    ],
+    "sleeve_detail": [
+      5,
+      6,
+      7
+    ],
+    "fabric_detail": [
+      2
+    ],
+    "tag_detail": [
+      3
+    ],
+    "invalid_or_uncertain": [
+      1
+    ]
+  }
+}

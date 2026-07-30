@@ -1,0 +1,93 @@
+{
+  "sku": "IF2368-506",
+  "brand": "nike",
+  "product_type": "jacket",
+  "review_state": "draft",
+  "reference_image_status": "usable_model_worn",
+  "color_authority": 5,
+  "facts": {
+    "brand_display": "NIKE耐克",
+    "official_url": null,
+    "official_title": null,
+    "season": [],
+    "gender": [
+      "男子"
+    ],
+    "product_line": [],
+    "category": "梭织外套",
+    "materials": [
+      "梭织面料",
+      "轻薄防风面料"
+    ],
+    "features": [
+      "连帽",
+      "全拉链",
+      "胸前小标",
+      "侧拉链口袋",
+      "弹性袖口",
+      "弹性下摆",
+      "拼色剪裁"
+    ],
+    "use_cases": [
+      "运动",
+      "休闲",
+      "户外轻便穿着"
+    ],
+    "styles": [
+      "运动风",
+      "轻量夹克",
+      "风衣外套"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "浅薰衣草紫",
+      "淡紫色",
+      "稍深紫色拼接"
+    ],
+    "tags": []
+  },
+  "roles": {
+    "front_full": [
+      5
+    ],
+    "back_full": [
+      4
+    ],
+    "logo_detail": [
+      3
+    ],
+    "front_structure_detail": [
+      5
+    ],
+    "back_structure_detail": [
+      1,
+      4
+    ],
+    "shared_structure_detail": [
+      2
+    ],
+    "collar_detail": [
+      5
+    ],
+    "hem_pocket_detail": [
+      2,
+      5
+    ],
+    "sleeve_detail": [
+      2,
+      4,
+      5
+    ],
+    "fabric_detail": [
+      3
+    ],
+    "tag_detail": [],
+    "invalid_or_uncertain": []
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "sku": "FN2799-361",
+  "brand": "nike",
+  "product_type": "shirt",
+  "review_state": "manual_verified",
+  "reference_image_status": "usable_model_worn",
+  "color_authority": 5,
+  "facts": {
+    "brand_display": "NIKE耐克",
+    "official_url": null,
+    "official_title": null,
+    "season": [],
+    "gender": [
+      "女子"
+    ],
+    "product_line": [],
+    "category": "速干短袖T恤",
+    "materials": [
+      "smooth lightweight athletic knit fabric"
+    ],
+    "features": [
+      "crew neck",
+      "short sleeves",
+      "center chest logo",
+      "plain back",
+      "curved hem",
+      "stitched side seams"
+    ],
+    "use_cases": [
+      "training",
+      "running",
+      "fitness"
+    ],
+    "styles": [
+      "athletic",
+      "minimal",
+      "solid color"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "灰绿色",
+      "灰色logo"
+    ],
+    "tags": []
+  },
+  "roles": {
+    "front_full": [
+      5
+    ],
+    "back_full": [
+      4
+    ],
+    "logo_detail": [
+      2,
+      3
+    ],
+    "front_structure_detail": [
+      3,
+      5
+    ],
+    "back_structure_detail": [
+      4
+    ],
+    "shared_structure_detail": [
+      1
+    ],
+    "collar_detail": [
+      2,
+      3,
+      5
+    ],
+    "hem_pocket_detail": [
+      4,
+      5
+    ],
+    "sleeve_detail": [
+      1,
+      4,
+      5
+    ],
+    "fabric_detail": [
+      1,
+      2,
+      3
+    ],
+    "tag_detail": [],
+    "invalid_or_uncertain": []
+  }
+}

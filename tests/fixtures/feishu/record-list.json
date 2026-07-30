@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "data": {
+    "fields": ["SKU", "Yupoo链接", "原图抓取", "图片生成", "四宫格", "图片审核"],
+    "record_id_list": ["rec_a1", "rec_b1", "rec_a2", "rec_b2"],
+    "data": [
+      ["DX1488-100", "https://x.yupoo.com/photos/a/albums/1", ["✅ 已完成"], null, ["✅ 已生成"], null],
+      ["FN2999-251", "https://x.yupoo.com/photos/a/albums/2", ["✅ 已完成"], null, ["✅ 已生成"], null],
+      ["DX1488-100", "https://x.yupoo.com/photos/a/albums/1", ["✅ 已完成"], null, ["✅ 已生成"], null],
+      ["FN2999-251", "https://x.yupoo.com/photos/a/albums/2", ["✅ 已完成"], null, ["✅ 已生成"], null]
+    ]
+  }
+}

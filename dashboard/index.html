@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#1d211f">
+  <title>商品发布审核台</title>
+  <link rel="stylesheet" href="/assets/styles.css">
+</head>
+<body>
+  <div class="grain" aria-hidden="true"></div>
+  <header class="masthead">
+    <div class="masthead__brand">
+      <span class="eyebrow">PRIVATE COMMERCE DESK</span>
+      <h1>商品发布<br>审核台</h1>
+    </div>
+    <div class="masthead__summary">
+      <p>采集、生成、审核、发送——每一件商品都在这里留下清晰状态。</p>
+      <div class="summary-numbers" id="summaryNumbers"></div>
+    </div>
+    <div class="live-mark"><span></span>Tailscale 内网</div>
+  </header>
+
+  <main>
+    <section class="toolbar" aria-label="商品筛选">
+      <label class="search-box">
+        <span>检索</span>
+        <input id="searchInput" type="search" placeholder="货号、标题、分类…" autocomplete="off">
+      </label>
+      <div class="destination-filter" id="destinationFilter"></div>
+      <select id="statusFilter" aria-label="审核状态">
+        <option value="all">全部状态</option>
+        <option value="reviewable">可以确认</option>
+        <option value="blocked">仍有阻断</option>
+        <option value="approved">已经确认</option>
+      </select>
+    </section>
+
+    <section class="collection-head">
+      <div>
+        <span class="index-number" id="resultCount">00</span>
+        <h2>已采集商品</h2>
+      </div>
+      <p>点击卡片查看发布资料与五张生成图</p>
+    </section>
+
+    <section class="product-grid" id="productGrid" aria-live="polite"></section>
+  </main>
+
+  <dialog class="review-dialog" id="reviewDialog">
+    <button class="dialog-close" id="dialogClose" aria-label="关闭">×</button>
+    <div id="dialogContent"></div>
+  </dialog>
+
+  <div class="toast" id="toast" role="status"></div>
+  <script type="module" src="/assets/app.js"></script>
+</body>
+</html>

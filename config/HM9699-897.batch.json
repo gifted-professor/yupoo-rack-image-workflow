@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "settings": {
+    "concurrency": 4,
+    "bridge_url": "http://127.0.0.1:8907/api/image/generate",
+    "max_reference_images": 5,
+    "prompt_rules": "config/generation-prompt-rules.json",
+    "sign_reference": "assets/price-sign-reference.png"
+  },
+  "items": [
+    {
+      "enabled": true,
+      "sku": "HM9699-897",
+      "brand": "nike",
+      "product_type": "shirt",
+      "cost": 60,
+      "category": "女装",
+      "category_en": "Women",
+      "views": {
+        "front": {
+          "scene_reference": "assets/store-scenes/10-nike-double-rack-shirts.png",
+          "color_authority": "work/items/HM9699-897/originals/01.png",
+          "product_references": [
+            "work/items/HM9699-897/originals/01.png",
+            "work/items/HM9699-897/originals/03.png"
+          ],
+          "prompt": "Show the exact HM9699-897 pink Nike women's quick-dry short-sleeve T-shirt FRONT-FACING on a black hanger. Preserve the crew neck, short sleeves, relaxed fit, and the silver Nike swoosh logo on the right chest. Match the soft pink colorway exactly."
+        },
+        "back": {
+          "scene_reference": "assets/store-scenes/10-nike-double-rack-shirts.png",
+          "color_authority": "work/items/HM9699-897/originals/01.png",
+          "product_references": [
+            "work/items/HM9699-897/originals/02.png",
+            "work/items/HM9699-897/originals/05.png",
+            "work/items/HM9699-897/originals/01.png"
+          ],
+          "prompt": "Show the exact HM9699-897 pink Nike women's quick-dry short-sleeve T-shirt BACK-FACING on a black hanger. Preserve the back mesh panel with the four horizontal reflective stripes, crew neck, short sleeves and relaxed fit. Keep the soft pink colorway exactly."
+        }
+      },
+      "tryon_views": {
+        "tryon_main": {
+          "scene_reference": "assets/store-scenes/04-nike-close-football-shirt.png",
+          "color_authority": "work/items/HM9699-897/originals/01.png",
+          "product_references": [
+            "work/items/HM9699-897/originals/01.png",
+            "work/items/HM9699-897/originals/03.png"
+          ],
+          "prompt": "An adult woman naturally tries on the exact HM9699-897 pink Nike women's quick-dry T-shirt inside a stocked sportswear store. Preserve the crew neck, short sleeves, relaxed fit and the silver Nike swoosh on the right chest. Match the soft pink colorway exactly."
+        },
+        "tryon_detail": {
+          "scene_reference": "assets/store-scenes/08-nike-close-white-jacket-front.png",
+          "color_authority": "work/items/HM9699-897/originals/01.png",
+          "product_references": [
+            "work/items/HM9699-897/originals/01.png",
+            "work/items/HM9699-897/originals/03.png"
+          ],
+          "prompt": "Create a closer chest-to-hip in-store phone photo of an adult woman wearing the exact HM9699-897 pink Nike T-shirt. Keep the true soft pink color, quick-dry cotton drape, crew neck, short sleeves and silver Nike swoosh on the right chest exactly faithful."
+        },
+        "tryon_back": {
+          "scene_reference": "assets/store-scenes/04-nike-close-football-shirt.png",
+          "color_authority": "work/items/HM9699-897/originals/02.png",
+          "product_references": [
+            "work/items/HM9699-897/originals/02.png",
+            "work/items/HM9699-897/originals/05.png"
+          ],
+          "prompt": "An adult woman stands facing AWAY from the camera in an in-store mirror selfie, showing the BACK of the exact HM9699-897 pink Nike women's quick-dry T-shirt. The back mesh panel with the horizontal reflective stripes must be fully visible. Preserve the crew neck, short sleeves and relaxed fit, and match the soft pink colorway exactly. The front chest is not visible from this back angle."
+        }
+      }
+    }
+  ]
+}

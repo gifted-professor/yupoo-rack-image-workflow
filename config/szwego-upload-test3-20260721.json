@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "target": "szwego",
+  "publish_url": "https://www.szwego.com/",
+  "items": [
+    {
+      "sku": "JZ6483",
+      "package": "work/items/JZ6483/publish-package-dryrun.json",
+      "review": "runs/rack-adidas-nodash-test3-20260721T0935CST/review.json"
+    },
+    {
+      "sku": "KT3056",
+      "package": "work/items/KT3056/publish-package-dryrun.json",
+      "review": "runs/rack-adidas-nodash-test3-20260721T0935CST/review.json"
+    },
+    {
+      "sku": "KY5768",
+      "package": "work/items/KY5768/publish-package-dryrun.json",
+      "review": "runs/rack-adidas-nodash-test3-20260721T0935CST/review.json"
+    }
+  ]
+}

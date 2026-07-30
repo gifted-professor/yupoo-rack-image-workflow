@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "settings": {
+    "concurrency": 4,
+    "bridge_url": "http://127.0.0.1:8907/api/image/generate",
+    "max_reference_images": 5,
+    "prompt_rules": "config/generation-prompt-rules.json",
+    "sign_reference": "assets/price-sign-reference.png"
+  },
+  "items": [
+    {
+      "enabled": false,
+      "sku": "HM9699-897",
+      "brand": "nike",
+      "product_type": "shirt",
+      "cost": 60,
+      "category": "女装",
+      "category_en": "Women",
+      "album_url": "https://x.yupoo.com/photos/adidas666888/albums/245473317?uid=1&isSubCate=false&referrercate=",
+      "views": {
+        "front": {
+          "scene_reference": "assets/store-scenes/10-nike-double-rack-shirts.png",
+          "color_authority": "examples/yupoo/HM9699-897/01.png",
+          "product_references": ["examples/yupoo/HM9699-897/01.png", "examples/yupoo/HM9699-897/03.png", "examples/yupoo/HM9699-897/04.png"],
+          "prompt": "Show the exact HM9699-897 sea-coral women's Swift Dri-FIT short-sleeve running top FRONT-FACING on a black hanger, with a simple crew neck, curved hem, tiny reflective silver left-chest swoosh, and tiny lower-side reflective marks."
+        },
+        "back": {
+          "scene_reference": "assets/store-scenes/10-nike-double-rack-shirts.png",
+          "color_authority": "examples/yupoo/HM9699-897/02.png",
+          "product_references": ["examples/yupoo/HM9699-897/02.png", "examples/yupoo/HM9699-897/05.png", "examples/yupoo/HM9699-897/01.png"],
+          "prompt": "Show the exact HM9699-897 sea-coral women's Swift Dri-FIT top BACK-FACING on a black hanger. Preserve the central tapered hourglass breathable mesh panel, stacked short reflective marks, short sleeves, and curved hem. No back swoosh."
+        }
+      }
+    },
+    {
+      "enabled": false,
+      "sku": "IF2368-236",
+      "brand": "nike",
+      "product_type": "jacket",
+      "cost": 170,
+      "category": "外套",
+      "category_en": "Outerwear",
+      "album_url": "https://x.yupoo.com/photos/adidas666888/albums/242016475?uid=1&isSubCate=false&referrercate=",
+      "views": {
+        "front": {
+          "scene_reference": "assets/store-scenes/11-nike-full-rack-jackets.png",
+          "color_authority": "examples/yupoo/IF2368-236/06.png",
+          "product_references": ["examples/yupoo/IF2368-236/06.png", "examples/yupoo/IF2368-236/04.png", "examples/yupoo/IF2368-236/02.png"],
+          "prompt": "Show the exact IF2368-236 men's lightweight hooded woven jacket FRONT-FACING on a black hanger. Preserve the pale warm gray-beige upper yoke and sleeves, off-white lower body, clean curved V-shaped chest seam, small light gray left-chest swoosh, attached hood, center two-way zipper, discreet side zip pockets, elastic cuffs, and straight hem."
+        },
+        "back": {
+          "scene_reference": "assets/store-scenes/11-nike-full-rack-jackets.png",
+          "color_authority": "examples/yupoo/IF2368-236/05.png",
+          "product_references": ["examples/yupoo/IF2368-236/05.png", "examples/yupoo/IF2368-236/06.png", "examples/yupoo/IF2368-236/02.png"],
+          "prompt": "Show the exact IF2368-236 men's lightweight hooded woven jacket BACK-FACING on a black hanger. Preserve the attached hood, pale warm gray-beige upper back yoke and sleeves, off-white lower body, clean horizontal-curved back color-block seam, elastic cuffs, and straight hem. No back logo and no invented vents."
+        }
+      }
+    }
+  ]
+}
+

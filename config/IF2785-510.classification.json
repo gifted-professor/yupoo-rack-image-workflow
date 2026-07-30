@@ -1,0 +1,80 @@
+{
+  "sku": "IF2785-510",
+  "brand": "nike",
+  "product_type": "shorts",
+  "review_state": "manual_verified",
+  "reference_image_status": "usable_model_worn",
+  "color_authority": 4,
+  "facts": {
+    "brand_display": "NIKE耐克",
+    "official_url": null,
+    "official_title": null,
+    "season": [],
+    "gender": [
+      "男子"
+    ],
+    "product_line": [],
+    "category": "短裤",
+    "materials": [
+      "光滑合成面料"
+    ],
+    "features": [
+      "松紧腰",
+      "抽绳",
+      "膝上/及膝长度",
+      "小号前侧Swoosh",
+      "后侧大号竖排NIKE字样"
+    ],
+    "use_cases": [
+      "运动",
+      "休闲"
+    ],
+    "styles": [
+      "男款运动短裤"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "亮宝蓝色",
+      "黑色标识"
+    ],
+    "tags": []
+  },
+  "roles": {
+    "front_full": [
+      4,
+      2
+    ],
+    "back_full": [
+      3
+    ],
+    "logo_detail": [
+      3,
+      4
+    ],
+    "front_structure_detail": [
+      4
+    ],
+    "back_structure_detail": [
+      3
+    ],
+    "shared_structure_detail": [
+      1
+    ],
+    "collar_detail": [],
+    "hem_pocket_detail": [
+      4
+    ],
+    "sleeve_detail": [],
+    "fabric_detail": [
+      1
+    ],
+    "tag_detail": [],
+    "invalid_or_uncertain": []
+  }
+}

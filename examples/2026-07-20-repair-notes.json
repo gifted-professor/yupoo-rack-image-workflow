@@ -1,0 +1,19 @@
+{
+  "HM9699-897-front": {
+    "reason": "首轮珊瑚色过亮、过荧光",
+    "repair_prompt": "Preserve camera, rack, blank sign, hangers, construction, logo, reflective marks, lighting, background and crop. Correct only every coral garment to the softer warm sea-coral/salmon color in the Yupoo references, with lower saturation."
+  },
+  "HM9699-897-back": {
+    "reason": "首轮珊瑚色过亮、过荧光",
+    "repair_prompt": "Preserve camera, rack, blank sign, mesh panel, reflective marks, seams, background and crop. Correct only every coral garment to the softer warm sea-coral/salmon color in the Yupoo references."
+  },
+  "IF2368-236-front": {
+    "reason": "胸前拼接线两端生成了不存在的翻盖结构",
+    "repair_prompt": "Preserve rack, camera, blank sign, colors, hood, zipper, sleeves, cuffs, hem and logo. Remove only the invented flap-like shapes; restore one clean uninterrupted curved V-shaped chest seam with no flaps, vents or extra panels."
+  },
+  "IF2368-236-back": {
+    "reason": "首轮通过",
+    "repair_prompt": null
+  }
+}
+

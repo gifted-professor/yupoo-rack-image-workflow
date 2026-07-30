@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "settings": {
+    "concurrency": 4,
+    "bridge_url": "http://127.0.0.1:8907/api/image/generate",
+    "max_reference_images": 5,
+    "prompt_rules": "config/generation-prompt-rules.json",
+    "sign_reference": "assets/price-sign-reference.png"
+  },
+  "items": [
+    {
+      "enabled": true,
+      "sku": "IX1577-274",
+      "brand": "jordan",
+      "product_type": "shirt",
+      "cost": 65,
+      "category": "男装",
+      "category_en": "Men",
+      "views": {
+        "front": {
+          "scene_reference": "assets/store-scenes/10-nike-double-rack-shirts.png",
+          "color_authority": "work/items/IX1577-274/originals/03.png",
+          "product_references": [
+            "work/items/IX1577-274/originals/03.png",
+            "work/items/IX1577-274/originals/02.png"
+          ],
+          "prompt": "Show the exact IX1577-274 horsehair-brown Jordan men's short-sleeve T-shirt FRONT-FACING on a black hanger. Preserve the relaxed straight fit, crew neck, short sleeves, black Air Jordan by Nike chest wordmark and the small red Jumpman below it. Do not move the back shoe graphic onto the front."
+        },
+        "back": {
+          "scene_reference": "assets/store-scenes/10-nike-double-rack-shirts.png",
+          "color_authority": "work/items/IX1577-274/originals/01.png",
+          "product_references": [
+            "work/items/IX1577-274/originals/01.png",
+            "work/items/IX1577-274/originals/02.png"
+          ],
+          "prompt": "Show the exact IX1577-274 horsehair-brown Jordan men's short-sleeve T-shirt BACK-FACING on a black hanger — the camera sees the BACK panel (the side that goes against the wearer's back); the front chest is not visible. The large red, white and black AJ1 shoe graphic, the black Air Jordan by Nike wording and the small red Jumpman are printed on this BACK panel, not on the chest. Keep the relaxed straight fit, crew neck and short sleeves."
+        }
+      },
+      "tryon_views": {
+        "tryon_main": {
+          "scene_reference": "assets/store-scenes/04-nike-close-football-shirt.png",
+          "color_authority": "work/items/IX1577-274/originals/03.png",
+          "product_references": [
+            "work/items/IX1577-274/originals/03.png",
+            "work/items/IX1577-274/originals/02.png"
+          ],
+          "prompt": "An adult man naturally tries on the exact IX1577-274 horsehair-brown Jordan T-shirt inside a stocked sportswear store. Use a front or slight three-quarter phone photo and preserve the relaxed straight fit, crew neck, and the FRONT chest content only: the small black 'Air Jordan by Nike.' chest wordmark and the small red Jumpman below it. The large red/white/black AJ1 shoe graphic is on the BACK of the shirt and must NOT appear on the front chest."
+        },
+        "tryon_detail": {
+          "scene_reference": "assets/store-scenes/08-nike-close-white-jacket-front.png",
+          "color_authority": "work/items/IX1577-274/originals/03.png",
+          "product_references": [
+            "work/items/IX1577-274/originals/03.png",
+            "work/items/IX1577-274/originals/02.png"
+          ],
+          "prompt": "Create a closer chest-to-hip in-store phone photo of an adult man wearing the exact IX1577-274 T-shirt, front-facing. Keep the true horsehair-brown color, relaxed cotton drape, crew neck, short sleeves, and the FRONT chest content only: the small black 'Air Jordan by Nike.' chest wordmark and the small red Jumpman below it. The large AJ1 shoe graphic is on the BACK and must NOT appear on the front chest."
+        },
+        "tryon_back": {
+          "scene_reference": "assets/store-scenes/04-nike-close-football-shirt.png",
+          "pose_reference": "assets/store-scenes/25-mirror-assisted-back-pose.png",
+          "composition": "side_mirror_reflection",
+          "color_authority": "work/items/IX1577-274/originals/01.png",
+          "product_references": [
+            "work/items/IX1577-274/originals/01.png",
+            "work/items/IX1577-274/originals/02.png",
+            "work/items/IX1577-274/originals/03.png"
+          ],
+          "prompt": "Show both true sides of the exact IX1577-274 horsehair-brown Jordan T-shirt in one coherent two-mirror moment. The foreground FRONT has the small black 'Air Jordan by Nike.' chest wordmark and the small red Jumpman below it. The angled mirror shows the BACK with the large red/white/black AJ1 shoe graphic, the black 'Air Jordan by Nike.' wording and the small red Jumpman. Preserve the relaxed straight fit, crew neck and short sleeves. Do not leave the foreground chest blank and do not move the large back graphic onto the front."
+        }
+      }
+    }
+  ]
+}
