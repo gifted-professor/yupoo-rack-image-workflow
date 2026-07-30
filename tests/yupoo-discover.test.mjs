@@ -2,12 +2,13 @@ import assert from 'node:assert/strict';
 import { execFile } from 'node:child_process';
 import path from 'node:path';
 import test from 'node:test';
+import { fileURLToPath } from 'node:url';
 import { promisify } from 'node:util';
 
 import { combineDiscoveryPages, parseDiscoveryArgs } from '../scripts/yupoo-discover.mjs';
 
 const execFileAsync = promisify(execFile);
-const root = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
+const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
 test('validates fixed inclusive discovery dates', () => {
   const args = parseDiscoveryArgs([
